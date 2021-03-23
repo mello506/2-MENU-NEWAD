@@ -1,14 +1,11 @@
-<channels>
-<channel>
-<name>[COLOR white][B] FILMES LEGENDADOS[/B][/COLOR]</name>
+<item>
+<title>[COLOR white][B] FILMES LEGENDADOS[/B][/COLOR]</title>
 <thumbnail>https://i.ibb.co/KbWSBYt/cat-filmes.png</thumbnail>
 <fanart>https://i.ibb.co/t3RxFSK/fanart.jpg</fanart>
 <info>ESCOLHA SEU FILME PARA ASSISTIR</info>
-</channel>
-</channels>
+</item>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
 
 <item>
 <title>[B]FILME[COLOR yellow] ->[COLOR orange] Finding 'Ohana (2021) [/COLOR][/B]</title>
