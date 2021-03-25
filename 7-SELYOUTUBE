@@ -1,18 +1,8 @@
-<channels></channels>
-<channel>
-<name>[COLOR lime]..:[/COLOR][COLOR yellow]:[/COLOR][COLOR red]:[/COLOR][COLOR blue][B] DICAS DE NAVEGAÇÃO [/B][/COLOR][COLOR red]:[/COLOR][COLOR yellow]:[/COLOR][COLOR lime]:..[/COLOR]</name>
-<thumbnail>http://bit.do/iconnavegacao</thumbnail>
-<fanart>http://bit.do/fanartnavegacao</fanart>
-<info>[COLOR blue]COR AZUL - SEM LINK[/COLOR] - [COLOR lime]COR VERDE - LINK ATIVO[/COLOR]
-[COLOR red]COR VERMELHA - LINK INATIVO[/COLOR] - [COLOR gold]REPORTE LINKS OFF[/COLOR]
-NO EMAIL - luminartstudio4@gmail.com</info>
-XXX
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels></channels>
 <channel>
-<name>[COLOR lime][B] LISTÃO DE NOVELAS[/B][/COLOR]</name>
-<externallink>https://EXTERNALLINK</externallink>
+<name>[COLOR orange][B] LISTÃO DE NOVELAS[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/mello506/NEWLUMINART/main/8A-NOVELASYOUTUBE</externallink>
 <thumbnail>https://i.ibb.co/GxNcZ34/novelas-pasta.png</thumbnail>
 <fanart>http://bit.do/entrarfanart</fanart>
 <info>LINS INSTAVÉIS PODE CAIR</info>
@@ -21,7 +11,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels></channels>
 <channel>
-<name>[COLOR lime][B] PLAYLISTS ESPECIAIS[/B][/COLOR]</name>
+<name>[COLOR orange][B] PLAYLISTS ESPECIAIS[/B][/COLOR]</name>
 <externallink>https://EXTERNALLINK</externallink>
 <thumbnail>https://i.ibb.co/26LjwYW/servidoryoutube-icon.png</thumbnail
 <fanart>http://bit.do/entrarfanart</fanart>
