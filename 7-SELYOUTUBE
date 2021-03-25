@@ -1,22 +1,9 @@
 
-<channels></channels>
-<channel>
-<name>[COLOR orange][B] LISTÃO DE NOVELAS[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/mello506/NEWLUMINART/main/8A-NOVELASYOUTUBE</externallink>
-<thumbnail>https://i.ibb.co/GxNcZ34/novelas-pasta.png</thumbnail>
-<fanart>http://bit.do/entrarfanart</fanart>
-<info>LINS INSTAVÉIS PODE CAIR</info>
-<genre>NOVELAS</genre>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<channels></channels>
-<channel>
-<name>[COLOR orange][B] PLAYLISTS ESPECIAIS[/B][/COLOR]</name>
-<externallink>https://EXTERNALLINK</externallink>
-<thumbnail>https://i.ibb.co/26LjwYW/servidoryoutube-icon.png</thumbnail
-<fanart>http://bit.do/entrarfanart</fanart>
-<link>NO LINK</link>
-<info>COLETÂNEAS ESPECIAIS DO YOUTUBE  </info>
-<genre>PLAYLISTS</genre>
+<item>
+<title>[B]YOUTUBE[/B][COLOR yellow] ->[/COLOR][COLOR lime] CAVERNA DO DRAGÃO [/COLOR]</title>
+<link>ignoreme</link>
+<jsonrpc>Plugin://plugin.video.youtube/playlist/PLEFCC790FE06799E3/?page=0</jsonrpc>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
