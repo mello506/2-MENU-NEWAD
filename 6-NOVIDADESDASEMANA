@@ -11,7 +11,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <item>
 <title>[B][COLOR orange]NOMEDOFILME [/COLOR][/B]</title>
 
-<link>plugin://plugin.video.youtube/play/?video_id=<LINKDOTRAILER>$nome=[B]TRAILER[/B][COLOR yellow] ->[/COLOR][COLOR orange] NOMEDOFILME[/COLOR][/B]</link>
+<link>plugin://plugin.video.youtube/play/?video_id=<LINKDOTRAILER>$nome=[B]TRAILER[/B][COLOR yellow] ->[/COLOR][COLOR orange][B] NOMEDOFILME [/B][/COLOR]</link>
 <link>plugin://plugin.video.elementum/play?uri=<LINKTORRENT720>$nome=[B]HD[/B][COLOR yellow] ->[/COLOR][COLOR orange][B] NOMEDOFILME - DATA - DUB - LEG[/B][/COLOR]</link>
 <link>plugin://plugin.video.elementum/play?uri=<LINKTORRENT1080>$nome=[B]FHD[/B][COLOR yellow] ->[/COLOR][COLOR orange][B] NOMEDOFILME - DATA - DUB - LEG[/B][/COLOR]</link>
 
