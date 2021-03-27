@@ -23,7 +23,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[B][COLOR white]  FILMES[/COLOR][/B]</name>
+<name>[B][COLOR white]FILMES[/COLOR][/B]</name>
 <thumbnail>https://i.ibb.co/RQfCBBF/Filmes.png</thumbnail>
 <fanart>https://i.ibb.co/t3RxFSK/fanart.jpg</fanart>
 <externallink>https://raw.githubusercontent.com/mello506/2-MENU-NEWAD/main/1A-SELFILMES</externallink>
@@ -35,7 +35,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[B][COLOR white]  SÉRIES[/COLOR][/B]</name>
+<name>[B][COLOR white]SÉRIES[/COLOR][/B]</name>
 <externallink>https://raw.githubusercontent.com/mello506/2-MENU-NEWAD/main/1B-SELSERIES</externallink>
 <thumbnail>https://i.ibb.co/5RSmfQb/Series.png</thumbnail>
 <fanart>https://i.ibb.co/t3RxFSK/fanart.jpg</fanart>
@@ -47,7 +47,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[B][COLOR white]  ANIMES[/COLOR][/B]</name>
+<name>[B][COLOR white]ANIMES[/COLOR][/B]</name>
 <externallink>https://raw.githubusercontent.com/mello506/2-MENU-NEWAD/main/1C-SELANIMES</externallink>
 <thumbnail>https://i.ibb.co/64sTrKP/animes.png</thumbnail>
 <fanart>https://i.ibb.co/t3RxFSK/fanart.jpg</fanart>
@@ -59,7 +59,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[B][COLOR white]  NOVELAS[/COLOR][/B]</name>
+<name>[B][COLOR white]NOVELAS[/COLOR][/B]</name>
 <externallink>https://raw.githubusercontent.com/mello506/2-MENU-NEWAD/main/1D-SELNOVELAS</externallink>
 <thumbnail>https://i.ibb.co/S0mcdwp/Novelas.png</thumbnail>
 <fanart>https://i.ibb.co/t3RxFSK/fanart.jpg</fanart>
@@ -71,7 +71,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[B][COLOR white]  DESENHOS[/COLOR][/B]</name>
+<name>[B][COLOR white]DESENHOS[/COLOR][/B]</name>
 <externallink>https://raw.githubusercontent.com/mello506/2-MENU-NEWAD/main/1E-SELDESENHOS</externallink>
 <thumbnail>https://i.ibb.co/yRXsKBS/Desenhos.png</thumbnail>
 <fanart>https://i.ibb.co/t3RxFSK/fanart.jpg</fanart>
@@ -83,7 +83,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[B][COLOR white]  TVs ONLINE[/COLOR][/B]</name>
+<name>[B][COLOR white]TVs ONLINE[/COLOR][/B]</name>
 <externallink>https://raw.githubusercontent.com/mello506/2-MENU-NEWAD/main/2-SELTVsONLINE</externallink>
 <thumbnail>https://i.ibb.co/82qmMMR/TV-online.png</thumbnail>
 <fanart>https://i.ibb.co/t3RxFSK/fanart.jpg</fanart>
@@ -107,7 +107,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[B][COLOR white]  SEÇÕES ESPECIAIS[/COLOR][/B]</name>
+<name>[B][COLOR white]SEÇÕES ESPECIAIS[/COLOR][/B]</name>
 <externallink>https://raw.githubusercontent.com/mello506/2-MENU-NEWAD/main/4-SELESPECIAIS</externallink>
 <thumbnail>https://i.ibb.co/bHMxTHL/Especiais.png</thumbnail>
 <fanart>https://i.ibb.co/t3RxFSK/fanart.jpg</fanart>
@@ -119,7 +119,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[B][COLOR white]  PEDIDOS DO USUÁRIO[/COLOR][/B]</name>
+<name>[B][COLOR white]PEDIDOS DO USUÁRIO[/COLOR][/B]</name>
 <externallink>https://raw.githubusercontent.com/mello506/2-MENU-NEWAD/main/5-PEDIDOSDOUSUARIO</externallink>
 <thumbnail>https://i.ibb.co/yNxkmtR/Pedidos.png</thumbnail>
 <fanart>https://i.ibb.co/t3RxFSK/fanart.jpg</fanart>
@@ -131,7 +131,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[B][COLOR white]  NOVIDADES DA SEMANA[/COLOR][/B]</name>
+<name>[B][COLOR white]NOVIDADES DA SEMANA[/COLOR][/B]</name>
 <externallink>https://raw.githubusercontent.com/mello506/2-MENU-NEWAD/main/6-NOVIDADESDASEMANA</externallink>
 <thumbnail>https://i.ibb.co/rp84Sdp/novidades.png</thumbnail>
 <fanart>https://i.ibb.co/t3RxFSK/fanart.jpg</fanart>
@@ -143,7 +143,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[B][COLOR white]  ACESSE CONTEUDO NO YOUTUBE[/COLOR][/B]</name>
+<name>[B][COLOR white]ACESSE CONTEUDO NO YOUTUBE[/COLOR][/B]</name>
 <externallink>https://raw.githubusercontent.com/mello506/2-MENU-NEWAD/main/7-SELYOUTUBE</externallink>
 <thumbnail>https://i.ibb.co/MkRkcyp/youtube.png</thumbnail
 <fanart>https://i.ibb.co/t3RxFSK/fanart.jpg</fanart>
