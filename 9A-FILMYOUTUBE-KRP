@@ -1,5 +1,5 @@
 <item>
-<title>[COLOR orange][B]SELECIONE UM ITEM [/B][/COLOR]</title>
+<title>[COLOR orange][B]SELECIONE UM ITEM [/B][/B][/COLOR]</title>
 <link>NOLINK</link>
 <thumbnail>https://i.ibb.co/MZ5t3vS/icon.png</thumbnail>
 <fanart>https://i.ibb.co/t3RxFSK/fanart.jpg</fanart>
@@ -9,7 +9,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <item>
-<title>[B]YOUTUBE[/B][COLOR yellow] ->[/COLOR][COLOR white] CAVERNA DO DRAGÃO [/COLOR]</title>
+<title>[COLOR white][B] CAVERNA DO DRAGÃO [/B][/COLOR]</title>
 <link>ignoreme</link>
 <jsonrpc>Plugin://plugin.video.youtube/playlist/PLEFCC790FE06799E3/?page=0</jsonrpc>
 <thumbnail></thumbnail>
@@ -18,7 +18,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <item>
-<title>[B]YOUTUBE[/B][COLOR yellow] ->[/COLOR][COLOR white] SPACE GHOST - COLEÇÃO - DUB[/COLOR]</title>
+<title>[COLOR white][B] SPACE GHOST - COLEÇÃO - DUB[/B][/COLOR]</title>
 <link>ignoreme</link>
 <jsonrpc>Plugin://plugin.video.youtube/playlist/PLibC4ZViYRZgb0nAI1x-yd8QdMzWcZwjx/?page=0</jsonrpc>
 <thumbnail>https://</thumbnail>
@@ -27,7 +27,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <item>
-<title>[B]YOUTUBE[/B][COLOR yellow] ->[/COLOR][COLOR white] HERCULÓIDES - COLEÇÃO - DUB[/COLOR]</title>
+<title>[COLOR white][B] HERCULÓIDES - COLEÇÃO - DUB[/B][/COLOR]</title>
 <link>ignoreme</link>
 <jsonrpc>Plugin://plugin.video.youtube/playlist/PLvBzIFuxf2yAb5DturZQaKpFMqCNO5VPf/?page=0</jsonrpc>
 <thumbnail>https://</thumbnail>
@@ -36,7 +36,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <item>
-<title>[B]YOUTUBE[/B][COLOR yellow] ->[/COLOR][COLOR white] DANIEL BOONE[/COLOR]</title>
+<title>[COLOR white][B] DANIEL BOONE[/B][/COLOR]</title>
 <link>ignoreme</link>
 <jsonrpc>Plugin://plugin.video.youtube/playlist/PLRgEQ0BlqHUCexIy6cTWNilQvK1HHqUmT/?page=0</jsonrpc>
 <thumbnail></thumbnail>
@@ -45,7 +45,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <item>
-<title>[B]YOUTUBE[/B][COLOR yellow] ->[/COLOR][COLOR white] RIN TIN TIN[/COLOR]</title>
+<title>[COLOR white][B] RIN TIN TIN[/B][/COLOR]</title>
 <link>ignoreme</link>
 <jsonrpc>Plugin://plugin.video.youtube/playlist/PLRgEQ0BlqHUCtvDLJJMR0ENxYE0aRT-nl/?page=0</jsonrpc>
 <thumbnail></thumbnail>
@@ -54,7 +54,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <item>
-<title>[B]YOUTUBE[/B][COLOR yellow] ->[/COLOR][COLOR white] CARGA PESADA - COLEÇÃO - DUB[/COLOR]</title>
+<title>[COLOR white][B] CARGA PESADA - COLEÇÃO - DUB[/B][/COLOR]</title>
 <link>ignoreme</link>
 <jsonrpc>Plugin://plugin.video.youtube/playlist/PLvBzIFuxf2yCGzmqjBRtu4fekUBHIPrY_/?page=0</jsonrpc>
 <thumbnail>https://2.bp.blogspot.com/-b7oDJEd5_fU/U4dXmvsMpnI/AAAAAAAAAYY/LNLzwZUk_48/s1600/Carga_Pesada%5Btecnotorrent.blogspot%5D.jpg</thumbnail>
@@ -63,7 +63,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <item>
-<title>[B]YOUTUBE[/B][COLOR yellow] ->[/COLOR][COLOR white] O CANGAÇO - COLEÇÃO - DUB[/COLOR]</title>
+<title>[COLOR white][B] O CANGAÇO - COLEÇÃO - DUB[/B][/COLOR]</title>
 <link>ignoreme</link>
 <jsonrpc>Plugin://plugin.video.youtube/playlist/PLvBzIFuxf2yCfe3AjAMM021hJpiS41zle/?page=0</jsonrpc>
 <thumbnail>https://i.pinimg.com/originals/ed/05/73/ed0573bc38b00d187388a3f3c546ff6b.jpg</thumbnail>
@@ -72,7 +72,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <item>
-<title>[B]YOUTUBE[/B][COLOR yellow] ->[/COLOR][COLOR white] WESTERN - COLEÇÃO - DUB[/COLOR]</title>
+<title>[COLOR white][B] WESTERN - COLEÇÃO - DUB[/B][/COLOR]</title>
 <link>ignoreme</link>
 <jsonrpc>Plugin://plugin.video.youtube/playlist/PLvBzIFuxf2yBJfSbdmzY2Xmwu6wyYCpND/?page=0</jsonrpc>
 <thumbnail>http://bit.do/iconesubcat-western</thumbnail>
@@ -81,7 +81,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <item>
-<title>[B]YOUTUBE[/B][COLOR yellow] ->[/COLOR][COLOR white] GUERRA - COLEÇÃO 1 - DUB[/COLOR]</title>
+<title>[COLOR white][B] GUERRA - COLEÇÃO 1 - DUB[/B][/COLOR]</title>
 <link>ignoreme</link>
 <jsonrpc>Plugin://plugin.video.youtube/playlist/PLvBzIFuxf2yB0t2jhlr-a2x8vuYnXXuRv/?page=0</jsonrpc>
 <thumbnail>http://bit.do/iconesubcat-guerra</thumbnail>
@@ -90,7 +90,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <item>
-<title>[B]YOUTUBE[/B][COLOR yellow] ->[/COLOR][COLOR white] GUERRA - COLEÇÃO 2 - DUB[/COLOR]</title>
+<title>[COLOR white][B] GUERRA - COLEÇÃO 2 - DUB[/B][/COLOR]</title>
 <link>ignoreme</link>
 <jsonrpc>Plugin://plugin.video.youtube/playlist/PL4NNHEtQlBht3_2Caukz1bbXZhe-WRUG0/?page=0</jsonrpc>
 <thumbnail>http://bit.do/iconesubcat-guerra</thumbnail>
@@ -99,7 +99,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <item>
-<title>[B]YOUTUBE[/B][COLOR yellow] ->[/COLOR][COLOR white] AVENTURA - COLEÇÃO - DUB[/COLOR]</title>
+<title>[COLOR white][B] AVENTURA - COLEÇÃO - DUB[/B][/COLOR]</title>
 <link>ignoreme</link>
 <jsonrpc>Plugin://plugin.video.youtube/playlist/PLvBzIFuxf2yCac__UaSpFzCm6pm68NTq-/?page=0</jsonrpc>
 <thumbnail>http://bit.do/iconesubcat-aventura</thumbnail>
@@ -108,7 +108,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <item>
-<title>[B]YOUTUBE[/B][COLOR yellow] ->[/COLOR][COLOR white] ANIMAÇÃO - COLEÇÃO - DUB[/COLOR]</title>
+<title>[COLOR white][B] ANIMAÇÃO - COLEÇÃO - DUB[/B][/COLOR]</title>
 <link>ignoreme</link>
 <jsonrpc>Plugin://plugin.video.youtube/playlist/PLvBzIFuxf2yDsRbURTSZR6eo0kNAiMAUL/?page=0</jsonrpc>
 <thumbnail>http://bit.do/iconesubcat-animacao</thumbnail>
@@ -117,7 +117,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <item>
-<title>[B]YOUTUBE[/B][COLOR yellow] ->[/COLOR][COLOR white] AÇÃO - COLEÇÃO - DUB[/COLOR]</title>
+<title>[COLOR white][B] AÇÃO - COLEÇÃO - DUB[/B][/COLOR]</title>
 <link>ignoreme</link>
 <jsonrpc>Plugin://plugin.video.youtube/playlist/PLvBzIFuxf2yAVNMgKivyt0_6RovIH_GKb/?page=0</jsonrpc>
 <thumbnail>http://bit.do/iconesubcat-acao</thumbnail>
@@ -126,7 +126,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <item>
-<title>[B]YOUTUBE[/B][COLOR yellow] ->[/COLOR][COLOR white] FICÇÃO - COLEÇÃO - DUB[/COLOR]</title>
+<title>[COLOR white][B] FICÇÃO - COLEÇÃO - DUB[/B][/COLOR]</title>
 <link>ignoreme</link>
 <jsonrpc>Plugin://plugin.video.youtube/playlist/PLvBzIFuxf2yAMFUwZq5qkuiuuYL90TTpJ/?page=0</jsonrpc>
 <thumbnail>http://bit.do/iconesubcat-ficcao</thumbnail>
@@ -135,7 +135,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <item>
-<title>[B]YOUTUBE[/B][COLOR yellow] ->[/COLOR][COLOR white] SUSPENSE E TERROR - COLEÇÃO - DUB[/COLOR]</title>
+<title>[COLOR white][B] SUSPENSE E TERROR - COLEÇÃO - DUB[/B][/COLOR]</title>
 <link>ignoreme</link>
 <jsonrpc>Plugin://plugin.video.youtube/playlist/PLvBzIFuxf2yBkPvL2I6OdkdlI3WoSpERo/?page=0</jsonrpc>
 <thumbnail>http://bit.do/iconesubcat-gialo</thumbnail>
@@ -144,7 +144,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <item>
-<title>[B]YOUTUBE[/B][COLOR yellow] ->[/COLOR][COLOR red] CRIME E DRAMA - COLEÇÃO - DUB[/COLOR]</title>
+<title>[B]YOUTUBE[/B][COLOR yellow] ->[/COLOR][COLOR red] CRIME E DRAMA - COLEÇÃO - DUB[/B][/COLOR]</title>
 <link>ignoreme</link>
 <thumbnail>http://bit.do/sub-cat-drama-png</thumbnail>
 <fanart>http://bit.do/entrarfanart</fanart>
@@ -152,7 +152,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <item>
-<title>[B]YOUTUBE[/B][COLOR yellow] ->[/COLOR][COLOR white] SUPER-HERÓIS - COLEÇÃO - DUB[/COLOR]</title>
+<title>[COLOR white][B] SUPER-HERÓIS - COLEÇÃO - DUB[/B][/COLOR]</title>
 <link>ignoreme</link>
 <jsonrpc>Plugin://plugin.video.youtube/playlist/PLvBzIFuxf2yCO0tb0GYNnOSgS0azRtAUJ/?page=0</jsonrpc>
 <thumbnail>https://i.ibb.co/jhRSW6S/sub-cat-superherois.png</thumbnail>
@@ -161,7 +161,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <item>
-<title>[B]YOUTUBE[/B][COLOR yellow] ->[/COLOR][COLOR white] DESENHOS - COLEÇÃO - DUB [/COLOR] </title>
+<title>[COLOR white][B] DESENHOS - COLEÇÃO - DUB [/COLOR] </title>
 <link>ignoreme</link>
 <jsonrpc>Plugin://plugin.video.youtube/playlist/PLvBzIFuxf2yCi8V9Q96u-q8ENvTDTykD6/?page=0</jsonrpc>
 <thumbnail>http://bit.do/cat-desenhos</thumbnail>
@@ -169,7 +169,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 </item>
 
 <item>
-<title>[B]YOUTUBE[/B][COLOR yellow] ->[/COLOR][COLOR white] IMPUROS 2ª TEMP - DUB[/COLOR]</title>
+<title>[COLOR white][B] IMPUROS 2ª TEMP - DUB[/B][/COLOR]</title>
 <link>ignoreme</link>
 <jsonrpc>Plugin://plugin.video.youtube/playlist/PLQUI77XsW6ZQ-Cbg2bC9ROH1kieJ5Unvy/?page=0</jsonrpc>
 <thumbnail>https://i.ibb.co/ypYBczn/impuros-icon.jpg</thumbnail>
@@ -178,11 +178,12 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <item>
-<title>[B]YOUTUBE[/B][COLOR yellow] ->[/COLOR][COLOR white] SPECTRE MAN - DUB[/COLOR]</title>
+<title>[COLOR white][B] SPECTRE MAN - DUB[/B][/COLOR]</title>
 <link>ignoreme</link>
 <jsonrpc>Plugin://plugin.video.youtube/playlist/PLWK0QO6Lkk8Mx521NXZxDjCnTsHIgmryw/?page=0</jsonrpc>
 <thumbnail>https://</thumbnail>
 <fanart>http://bit.do/entrarfanart</fanart>
 </item>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
 
