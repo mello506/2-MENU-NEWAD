@@ -1,18 +1,18 @@
 <channels>
 <channel>
-<name>[B][COLOR white] FILMES EM SERVIDORES ALTERNATIVOS[/COLOR][/B]</name>
-<link>NOLINK</link>
-<thumbnail>https://i.ibb.co/RQfCBBF/Filmes.png</thumbnail>
+<name>[COLOR orange][B]SELECIONE UM ITEM [/B][/COLOR]</name>
+<externallink>NOLINK</externallink>
+<thumbnail>https://i.ibb.co/MZ5t3vS/icon.png</thumbnail>
 <fanart>https://i.ibb.co/t3RxFSK/fanart.jpg</fanart>
-<info>NO LUMINART STUDIO TEMOS SERVIDORES VARIADOS</info>
+<info>FAÇA SUA ESCOLHA E DIVIRTA-SE</info>
 </channel>
 </channels>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR orange][B] FILMES NO G DRIVE[/B][/COLOR]</name>
+<name>[COLOR red][B] FILMES NO G DRIVE[/B][/COLOR]</name>
 <externallink>https://raw.githubusercontent.com/mello506/7-GDRIVE-NEWAD/main/1A-SELFILMES%20-GDRIVE</externallink>
 <thumbnail>https://i.ibb.co/B2WH0J8/Filmes-Gdrive.png</thumbnail>
 <fanart>https://i.ibb.co/t3RxFSK/fanart.jpg</fanart>
@@ -24,7 +24,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR orange][B] FILMES NO SERVER 1[/B][/COLOR]</name>
+<name>[COLOR red][B] FILMES NO SERVER 1[/B][/COLOR]</name>
 <externallink>https://raw.githubusercontent.com/mello506/5-SERVER1-NEWAD/main/1A-SELFILMES-SERVER1</externallink>
 <thumbnail>https://i.ibb.co/BfRrLxh/Server-1-2.png</thumbnail>
 <fanart>https://i.ibb.co/t3RxFSK/fanart.jpg</fanart>
@@ -36,7 +36,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR orange][B] FILMES NO SERVER 2 [/B][/COLOR]</name>
+<name>[COLOR white][B] FILMES NO SERVER 2 [/B][/COLOR]</name>
 <externallink>https://raw.githubusercontent.com/mello506/6-SERVER2-NEWAD/main/1A-SELFILMES-SERVER2</externallink>
 <thumbnail>https://i.ibb.co/6mcCQf1/Server-2-2.png</thumbnail>
 <fanart>https://i.ibb.co/t3RxFSK/fanart.jpg</fanart>
@@ -48,7 +48,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR orange][B] FILMES LEGENDADOS[/B][/COLOR]</name>
+<name>[COLOR white][B] FILMES LEGENDADOS[/B][/COLOR]</name>
 <externallink>https://raw.githubusercontent.com/mello506/2-MENU-NEWAD/main/1A2-SOFILMELEGENDADO</externallink>
 <thumbnail>https://i.ibb.co/vBCbRBV/Legendado.png</thumbnail>
 <fanart>https://i.ibb.co/t3RxFSK/fanart.jpg</fanart>
@@ -60,7 +60,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 channels>
 <channel>
-<name>[COLOR orange][B] FILMES NO REDE CANAIS [/B][/COLOR]</name>
+<name>[COLOR red][B] FILMES NO REDE CANAIS [/B][/COLOR]</name>
 <externallink>https://raw.githubusercontent.com/mello506/4-REDCAN-NEWAD/main/1A-SELFILMES-REDCAN</externallink>
 <thumbnail>https://i.ibb.co/HV06TbP/Redecanais-2.png</thumbnail>
 <fanart>https://i.ibb.co/t3RxFSK/fanart.jpg</fanart>
