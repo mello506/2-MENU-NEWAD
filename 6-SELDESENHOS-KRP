@@ -1,30 +1,20 @@
 <channels>
 <channel>
-<name>[COLOR lime]..:[/COLOR][COLOR yellow]:[/COLOR][COLOR red]:[/COLOR][COLOR blue][B] DICAS DE NAVEGAÇÃO [/B][/COLOR][COLOR red]:[/COLOR][COLOR yellow]:[/COLOR][COLOR lime]:..[/COLOR]</<name>>
-<thumbnail>http://bit.do/iconnavegacao</thumbnail>
-<fanart>http://bit.do/fanartnavegacao</fanart>
-<info>[COLOR blue]COR AZUL - SEM LINK[/COLOR] - [COLOR lime]COR VERDE - LINK ATIVO[/COLOR]
-[COLOR red]COR VERMELHA - LINK INATIVO[/COLOR] - [COLOR gold]REPORTE LINKS OFF[/COLOR]
-NO EMAIL - luminartstudio4@gmail.com</info>
+<name>[COLOR orange][B]SELECIONE UM ITEM [/B][/COLOR]</name>
+<externallink>NOLINK</externallink>
+<thumbnail>https://i.ibb.co/MZ5t3vS/icon.png</thumbnail>
+<fanart>https://i.ibb.co/t3RxFSK/fanart.jpg</fanart>
+<info>FAÇA SUA ESCOLHA E DIVIRTA-SE</info>
 </channel>
 </channels>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<channels></channels>
-<channel>
-<name>[COLOR blue][B] ESCOLHA SEU SERVIDOR DE DESENHOS[/B][/COLOR]</name>
-<thumbnail>https://i.ibb.co/ThT5YFB/cat-desenhos.png</thumbnail>
-<fanart>http://bit.do/entrarfanart</fanart>
-<info>NO LUMINART STUDIO TEMOS SERVIDORES VARIADOS</info>
-<genre>DESENHOS</genre>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR lime][B] DESENHOS NO G DRIVE[/B][/COLOR]</name>
+<name>[COLOR white][B]DESENHOS NO G DRIVE[/B][/COLOR]</name>
 <externallink>https://EXTERNALLINK</externallink>
-<thumbnail>https://i.ibb.co/VjFtcfW/servidorgdrive-icon.png</thumbnail>
+<thumbnail>https://i.ibb.co/yBT74Np/Gdrive.png</thumbnail>
 <fanart>http://bit.do/entrarfanart</fanart>
 <info>LINKS NO G DRIVE NECESSITAM TER O PLUGIN ADEQUADO INSTALADO PARA ACESSAR CONTATE OS GRUPOS DE SUPORTE.</info>
 </channel>
@@ -34,9 +24,9 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR lime][B] DESENHOS NO SERVER 1[/B][/COLOR]</name>
+<name>[COLOR white][B]DESENHOS NO SERVER 1[/B][/COLOR]</name>
 <externallink>https://EXTERNALLINK</externallink>
-<thumbnail>https://i.ibb.co/PTfM77r/server1-icon.png</thumbnail>
+<thumbnail>https://i.ibb.co/qW7tZTp/Server-1.png</thumbnail>
 <fanart>http://bit.do/entrarfanart</fanart>
 <info>LINKS DO SERVER 1 SÃO DE LISTA PAGA, NÃO VAI CAIR ENQUANTO PUDERMOS PAGAR ENTÃO FAÇA SUA CONTRIBUIÇÃO PARA MANTER ESSA SEÇÃO ATIVA</info>
 </channel>
@@ -46,9 +36,9 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR red][B] DESENHOS NO SERVER 2[/B][/COLOR]</name>
+<name>[COLOR red][B]DESENHOS NO SERVER 2[/B][/COLOR]</name>
 <externallink>https://EXTERNALLINK</externallink>
-<thumbnail>https://i.ibb.co/1KkvvLJ/server2-pasta.jpg</thumbnail>
+<thumbnail>https://i.ibb.co/mqhy2j0/Server-2.png</thumbnail>
 <fanart>http://bit.do/entrarfanart</fanart>
 <info>LINKS EM STREAMING, PROVISÓRIOS, MAS ESTAVEIS  </info>
 </channel>
@@ -58,9 +48,9 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR lime][B] DESENHOS EM TORRENT[/B][/COLOR]</name>
+<name>[COLOR white][B]DESENHOS EM TORRENT[/B][/COLOR]</name>
 <externallink>https://EXTERNALLINK</externallink>
-<thumbnail>https://i.ibb.co/W0x0Jj3/servidortorrenti-con.png</thumbnail>
+<thumbnail>https://i.ibb.co/FsygFkm/torrent.png</thumbnail>
 <fanart>http://bit.do/entrarfanart</fanart>
 <info>LINKS EM TORRENT SÃO OS MAIS CONFIÁVEIS DÊ PREFERÊNCIA</info>
 </channel>
@@ -68,11 +58,11 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<channels>
+channels>
 <channel>
-<name>[COLOR lime][B] DESENHOS NO REDE CANAIS[/B][/COLOR]</name>
+<name>[COLOR red][B]DESENHOS NO REDE CANAIS[/B][/COLOR]</name>
 <externallink>https://EXTERNALLINK</externallink>
-<thumbnail>https://i.ibb.co/vZ7W6Ym/redecan-icon.png</thumbnail>
+<thumbnail>https://i.ibb.co/16gVS0g/redecanais.png</thumbnail>
 <fanart>http://bit.do/entrarfanart</fanart>
 <info>LINKS DO REDE CANAIS SÃO INSTÁVEIS PODEM CAIR </info>
 </channel>
