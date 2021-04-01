@@ -1,6 +1,6 @@
 <channels>
 <channel>
-<name>[COLOR orange][B]ESCOLHA UM ITEM [/B][/COLOR]</name>
+<name>[COLOR orange][B]SELECIONE UM ITEM [/B][/COLOR]</name>
 <thumbnail>https://i.ibb.co/MZ5t3vS/icon.png</thumbnail>
 <fanart>https://i.ibb.co/t3RxFSK/fanart.jpg</fanart>
 <info>ESCOLHA O GÊNERO DO FILME PARA ASSISTIR</info>
@@ -24,7 +24,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <channels>
 <channel>
 <name>[COLOR white][B]NOVELAS NO YOUTUBE [/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/mello506/2-MENU-MTX/main/9B-NOVLYOTUBE</externallink>
+<externallink>https://raw.githubusercontent.com/mello506/1-MENU-KRP/main/9B-NOVLYOTUBE-KRP</externallink>
 <thumbnail>https://i.ibb.co/Xs6mDXX/youtube-3.png</thumbnail>
 <fanart>https://i.ibb.co/t3RxFSK/fanart.jpg</fanart>
 <info>NOSSA PLAYLIST ESPECIAL DE NOVELAS NO YOUTUBE EM ACESSO DIRETO PRA VOCÊ DESFRUTAR.</info>
