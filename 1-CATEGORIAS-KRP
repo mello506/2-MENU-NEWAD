@@ -1,17 +1,16 @@
-<channels>
-<channel>
-<name>[COLOR orange][B]ESCOLHA UM ITEM KRP[/B][/COLOR]</name>
+<item>
+<title>[COLOR orange][B]SELECIONE UM ITEM KRP[/B][/COLOR]</title>
+<link>NOLINK</link>
 <thumbnail>https://i.ibb.co/MZ5t3vS/icon.png</thumbnail>
 <fanart>https://i.ibb.co/t3RxFSK/fanart.jpg</fanart>
-<info>ESCOLHA O GÊNERO DO FILME PARA ASSISTIR</info>
-</channel>
-</channels>
+<info>FAÇA SUA ESCOLHA E DIVIRTA-SE</info>
+</item>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR white][B]LANÇAMENTOS KRP[/B][/COLOR]</name>
+<name>[COLOR white][B]LANÇAMENTOS[/B][/COLOR]</name>
 <externallink>https://raw.githubusercontent.com/mello506/1-TORR-KRP/main/6-LANCAMENTOS-TRKP</externallink>
 <thumbnail>https://i.ibb.co/gwDwqtp/lancamentos.png</thumbnail>
 <fanart>https://i.ibb.co/t3RxFSK/fanart.jpg</fanart>
