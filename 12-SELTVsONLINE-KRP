@@ -12,7 +12,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR white][B]LISTÃO DE TVs 1 [/B][/COLOR]</name>
+<name>[COLOR white][B]LISTÃO DE TVs ABERTAS [/B][/COLOR]</name>
 <externallink>https://raw.githubusercontent.com/mello506/REPOTVs-LUMINART/main/1A-LISTATVsALLUSSER-1</externallink>
 <thumbnail>https://i.ibb.co/xJw3tvH/1.png</thumbnail>
 <fanart>https://i.ibb.co/t3RxFSK/fanart.jpg</fanart>
@@ -24,9 +24,10 @@ NO EMAIL - luminartstudio4@gmail.com</info></info>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-
-<name>[COLOR white][B]LISTÃO DE TVs 2 [/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/mello506/REPOTVs-LUMINART/main/2B-LISTATVsCONT-2</externallink>
+<channels>
+<channel>
+<name>[COLOR white][B]LISTÃO DE TVs FECHADAS [/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/mello506/REPOTVs-LUMINART/main/2A-LISTATVsCONT-1</externallink>
 <thumbnail>https://i.ibb.co/xJw3tvH/1.png</thumbnail>
 <fanart>https://i.ibb.co/t3RxFSK/fanart.jpg</fanart>
 <info>CANAIS DE TV DE LISTAS IPTV - LINKS INSTÁVEIS SUJEITOS A CAIR - INFORME ERROS 
