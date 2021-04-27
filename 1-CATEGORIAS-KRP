@@ -96,11 +96,11 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR white][B]SEÇÃO NOSTALGIA[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/mello506/1-GDRIVE-KPT/main/1A-SELFILM%20-GDKRP</externallink>
-<thumbnail>https://i.ibb.co/Hqgfdhp/Nostalgia.png</thumbnail
+<name>[B][COLOR white]SEÇÕES ESPECIAIS[/COLOR][/B]</name>
+<externallink>https://raw.githubusercontent.com/mello506/1-MENU-KRP/main/7-SELESPECIAIS-KRP</externallink>
+<thumbnail>https://i.ibb.co/bHMxTHL/Especiais.png</thumbnail>
 <fanart>https://i.ibb.co/t3RxFSK/fanart.jpg</fanart>
-<info>MATERIAIS RAROS  DIFÍCEIS DE ENCONTRAR NA WEB</info>
+<info>OS DESTAQUES DA SÉTIMA ARTE</info>
 </channel>
 </channels>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
@@ -108,11 +108,11 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[B][COLOR white]SEÇÕES ESPECIAIS[/COLOR][/B]</name>
-<externallink>https://raw.githubusercontent.com/mello506/1-MENU-KRP/main/7-SELESPECIAIS-KRP</externallink>
-<thumbnail>https://i.ibb.co/bHMxTHL/Especiais.png</thumbnail>
+<name>[COLOR white][B]SEÇÃO NOSTALGIA[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/mello506/1-GDRIVE-KPT/main/1A-SELFILM%20-GDKRP</externallink>
+<thumbnail>https://i.ibb.co/Hqgfdhp/Nostalgia.png</thumbnail
 <fanart>https://i.ibb.co/t3RxFSK/fanart.jpg</fanart>
-<info>OS DESTAQUES DA SÉTIMA ARTE</info>
+<info>MATERIAIS RAROS  DIFÍCEIS DE ENCONTRAR NA WEB</info>
 </channel>
 </channels>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
