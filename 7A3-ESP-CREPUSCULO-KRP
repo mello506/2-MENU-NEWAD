@@ -24,11 +24,11 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <link>plugin://plugin.video.youtube/play/?video_id=4DL8k5hmx08$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white]Crepusculo [/B][/COLOR]</link>
 
-<link>http://sv1.nowiptv.net:8880/movie/ACML2/ACM21/40849.mp4$$lsname=[COLOR orange][B]2008[COLOR yellow] -> [COLOR red]Crepusculo - DUB[/B][/COLOR]</link>
-<link>http://sv1.nowiptv.net:8880/movie/ACML2/ACM21/40850.mp4$$lsname=[COLOR orange][B]2009[COLOR yellow] -> [COLOR white]Lua Nova - DUB[/B][/COLOR]</link>
-<link>http://sv1.nowiptv.net:8880/movie/ACML2/ACM21/40851.mp4$$lsname=[COLOR orange][B]2010[COLOR yellow] -> [COLOR white]Eclipse - DUB[/B][/COLOR]</link>
-<link>http://sv1.nowiptv.net:8880/movie/ACML2/ACM21/40852.mp4$$lsname=[COLOR orange][B]2011[COLOR yellow] -> [COLOR white]Amanhecer - Parte 1 - DUB[/B][/COLOR]</link>
-<link>http://sv1.nowiptv.net:8880/movie/ACML2/ACM21/40853.mp4$$lsname=[COLOR orange][B]2012[COLOR yellow] -> [COLOR white]Amanhecer - Parte 2 - DUB[/B][/COLOR]</link>
+<link>http://sv1.nowiptv.net:8880/movie/ACML2/67293456jg/40849.mp4$$lsname=[COLOR orange][B]2008[COLOR yellow] -> [COLOR red]Crepusculo - DUB[/B][/COLOR]</link>
+<link>http://sv1.nowiptv.net:8880/movie/ACML2/67293456jg/40850.mp4$$lsname=[COLOR orange][B]2009[COLOR yellow] -> [COLOR white]Lua Nova - DUB[/B][/COLOR]</link>
+<link>http://sv1.nowiptv.net:8880/movie/ACML2/67293456jg/40851.mp4$$lsname=[COLOR orange][B]2010[COLOR yellow] -> [COLOR white]Eclipse - DUB[/B][/COLOR]</link>
+<link>http://sv1.nowiptv.net:8880/movie/ACML2/67293456jg/40852.mp4$$lsname=[COLOR orange][B]2011[COLOR yellow] -> [COLOR white]Amanhecer - Parte 1 - DUB[/B][/COLOR]</link>
+<link>http://sv1.nowiptv.net:8880/movie/ACML2/67293456jg/40853.mp4$$lsname=[COLOR orange][B]2012[COLOR yellow] -> [COLOR white]Amanhecer - Parte 2 - DUB[/B][/COLOR]</link>
 
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/sgxHeCZE3H9n5jQFumQPs9HBnTV.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/416GIIuwkByiKurQB3c6ASfdZm4.jpg</fanart>
@@ -37,7 +37,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 </item>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item>
+item>
 <title>[COLOR orange][B]SERVER 2[COLOR yellow] -> [COLOR white]Crepúsculo - Coleção completa - 2011 - 2008 [/B][/COLOR]</title>
 
 <link>plugin://plugin.video.youtube/play/?video_id=4DL8k5hmx08$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white]Crepusculo [/B][/COLOR]</link>
