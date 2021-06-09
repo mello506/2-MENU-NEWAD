@@ -175,6 +175,26 @@ link><LINKUNIVERSAL>$$lsname=[COLOR orange][B]SERVER 1[COLOR yellow] -> [COLOR w
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <item>
+<title>[COLOR white][B]Star Wars O Lote Estragado - 2021 - DUB[/B][/COLOR]</title>
+
+<link>plugin://plugin.video.youtube/play/?video_id=ACJUDh2bE9k$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] ->[COLOR white]Star Wars O Lote Estragado[/B][/COLOR]</link>
+
+<link>NOLINK$nome=[COLOR orange][B]SERVER 2[COLOR yellow] -> [COLOR orange] Temporada 01 - DUB[/B][/COLOR]</link>
+
+<link>http://b5.vc:80/series/ed/102030/104628.mp4$$lsname=[COLOR orange][B]T01E01[COLOR yellow] -> [COLOR white]Rescaldo [/B][/COLOR]</link>
+<link>http://b5.vc:80/series/ed/102030/106599.mp4$$lsname=[COLOR orange][B]T01E02[COLOR yellow] -> [COLOR white]Cortar e Executar [/B][/COLOR]</link>
+<link>http://b5.vc:80/series/ed/102030/106600.mp4$$lsname=[COLOR orange][B]T01E03[COLOR yellow] -> [COLOR white]Substituisoes [/B][/COLOR]</link>
+<link>http://b5.vc:80/series/ed/102030/107805.mp4$$lsname=[COLOR orange][B]T01E04[COLOR yellow] -> [COLOR white]Encurralado [/B][/COLOR]</link>
+link>http://b5.vc:80/series/ed/102030/.mp4$$lsname=[COLOR orange][B]T01E05[COLOR yellow] -> [COLOR white]Alvoroso [/B][/COLOR]</link>
+	
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/egvESR15XcheicKIfxdFt0ON7FW.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/e2lG8OYQp1zbfsKUYIbq8I0DCQb.jpg</fanart>
+<info>Os Mal Feitos precisam encontrar seu caminho numa galáxia em rápida transformação.</info>
+<genre>ANIMAÇÃO</genre>  
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
 <title>[COLOR orange][B]SÉRIE[COLOR yellow] -> [COLOR white][B]Star Wars A Guerra Dos Clones - 2003[/B][/COLOR]</title>
 
 <link>plugin://plugin.video.youtube/play/?video_id=1YLnFn8PLUg$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white]Star Wars A Guerra Dos Clones [/B][/COLOR]</link>
