@@ -27,7 +27,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <channel>
 <name>[COLOR white][B]FILMES NO SERVER 1[/B][/COLOR]</name>
 <externallink>https://raw.githubusercontent.com/mello506/3-SERVER1-GERAL/main/1A-SELFILMES-SERVER1</externallink>
-<thumbnail>https://i.ibb.co/BfRrLxh/Server-1-2.png</thumbnail>
+<thumbnail>https://i.ibb.co/bJKW8P4/Server-1tvonline.png</thumbnail>
 <fanart>https://i.ibb.co/t3RxFSK/fanart.jpg</fanart>
 <info>LINKS DO SERVER 1 SÃO INSTÁVEIS, PODEM CAIR REPORTE LINKS OF LINE NOS GRUPOS DE SUPORTE</info>
 </channel>
@@ -39,7 +39,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <channel>
 <name>[COLOR white][B]FILMES NO SERVER 2 [/B][/COLOR]</name>
 <externallink>https://raw.githubusercontent.com/mello506/3-SERVER2-GERAL/main/1A-SELFILMES-SERVER2</externallink>
-<thumbnail>https://i.ibb.co/6mcCQf1/Server-2-2.png</thumbnail>
+<thumbnail>https://i.ibb.co/CmGwf4w/filmes-SERV2.png</thumbnail>
 <fanart>https://i.ibb.co/t3RxFSK/fanart.jpg</fanart>
 <info>LINKS DO SERVER 2 SÃO INSTÁVEIS, PODEM CAIR REPORTE LINKS OF LINE NOS GRUPOS DE SUPORTE</info>
 </channel>
@@ -51,7 +51,18 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <channel>
 <name>[COLOR white][B]FILMES NO SERVER 3[/B][/COLOR]</name>
 <externallink>https://raw.githubusercontent.com/mello506/3-SERVER2-GERAL/main/1C-SELFILMES-SERVER4</externallink>
-<thumbnail>https://i.ibb.co/6mcCQf1/Server-2-2.png</thumbnail>
+<thumbnail>https://i.ibb.co/FWHJmXC/filmes-SERV3.png</thumbnail>
+<fanart>https://i.ibb.co/t3RxFSK/fanart.jpg</fanart>
+<info>LINKS DO SERVER 2 SÃO INSTÁVEIS, PODEM CAIR REPORTE LINKS OF LINE NOS GRUPOS DE SUPORTE</info>
+</channel>
+</channels>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+
+<name>[COLOR white][B]FILMES NO SERVER 4[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/mello506/3-SERVER2-GERAL/main/1C-SELFILMES-SERVER4</externallink>
+<thumbnail>https://i.ibb.co/ThfP8Pb/filmes-SERV4.png</thumbnail>
 <fanart>https://i.ibb.co/t3RxFSK/fanart.jpg</fanart>
 <info>LINKS DO SERVER 2 SÃO INSTÁVEIS, PODEM CAIR REPORTE LINKS OF LINE NOS GRUPOS DE SUPORTE</info>
 </channel>
