@@ -1,23 +1,15 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="ICONEDOFILME",[COLOR white][B]Batalha no Neretya[/B][/COLOR]
+#EXTINF:-1 tvg-logo="https://i.ibb.co/f06WLSF/segunda.png",[COLOR orange][B] SELECIONE UM ITEM ABAIXO[/B][/COLOR]
+LINKDOFILME
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/70fCvw1KkFfAwq5Q8vGIMQhPEi7.jpg",[COLOR white][B]Batalha no Neretya (1969)[/B][/COLOR]
 https://www.googleapis.com/drive/v3/files/1imqri4wwLZfPyQBs24nyFjSy7IX6a9qx?alt=media&key=AIzaSyCmGtXSIC6lBlxF0XdNZHiRZmXRLDNhlmY
-#EXTINF:-1 tvg-logo="https://br.web.img3.acsta.net/pictures/15/08/07/19/24/393485.jpg" group-title="Filmes On Demand", A Colina Escarlet
-https://www.googleapis.com/drive/v3/files/1yt3pMwrS0q8Ky4yEBdnJEEuwKcnODBGm2g?alt=media&key=AIzaSyC7MtcqLfd5k2eQgzbd2vSAoFmOl_nyVBs
-#EXTINF:-1 tvg-logo="ICONEDOFILME",[COLOR orange][B]vivos[/B][/COLOR]
-https://www.googleapis.com/drive/v3/files/10jRvnAQbVgkDj56na-nJIScKAQvB425D?alt=media&key=AIzaSyCmGtXSIC6lBlxF0XdNZHiRZmXRLDNhlmY
-#EXTINF:-1 tvg-logo="ICONEDOFILME",[COLOR white][B]Guerra dos mundos[/B][/COLOR]
-https://www.googleapis.com/drive/v3/files/1R1SHZHD0dEgc5Q4nzVmG1GWyfAW5u115?alt=media&key=AIzaSyCmGtXSIC6lBlxF0XdNZHiRZmXRLDNhlmY
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/sMadVQ5WDESfA47SEPIy5PrLL3Y.jpg",[COLOR white][B]Ivanhoe[/B][/COLOR]
-https://www.googleapis.com/drive/v3/files/1ljnxtnYsgEHmF1li8L7crFRAVJwsAxIB?alt=media&key=AIzaSyCmGtXSIC6lBlxF0XdNZHiRZmXRLDNhlmY
-#EXTINF:-1 tvg-logo="ICONEDOFILME",[COLOR white][B]Lawrence da Arábia[/B][/COLOR]
-https://www.googleapis.com/drive/v3/files/1YMWMF-GuKljo_kYJ6zsCUL-lx7ik421N?alt=media&key=AIzaSyCmGtXSIC6lBlxF0XdNZHiRZmXRLDNhlmY
-#EXTINF:-1 tvg-logo="https://br.web.img3.acsta.net/pictures/15/08/07/19/24/393485.jpg" group-title="Filmes On Demand", jango
-https://www.googleapis.com/drive/v3/files/1essbaVAiUbDRlgsEgqgYurEw14ORZdX6?alt=media&key=AIzaSyCmGtXSIC6lBlxF0XdNZHiRZmXRLDNhlmY
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/70fCvw1KkFfAwq5Q8vGIMQhPEi7.jpg",[COLOR white][B]Batalha no Neretya[/B][/COLOR]
-https://www.googleapis.com/drive/v3/files/1imqri4wwLZfPyQBs24nyFjSy7IX6a9qx?alt=media&key=AIzaSyCmGtXSIC6lBlxF0XdNZHiRZmXRLDNhlmY
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/tEFAiAdvhNp2HyoK1ZEIuoYello.jpg",[COLOR white][B]Assin Nascem os Heróis[/B][/COLOR]
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/tEFAiAdvhNp2HyoK1ZEIuoYello.jpg",[COLOR white][B]Assim Nascem os Heróis (1970) [/B][/COLOR]
 https://www.googleapis.com/drive/v3/files/1IamPuBFwJlSUx_-vOWBlppijQAmZQ3Z0?alt=media&key=AIzaSyCmGtXSIC6lBlxF0XdNZHiRZmXRLDNhlmY
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/gj3SuPPTGcz4XnHL6jHr3G8K1h9.jpg",[COLOR white][B]Mortos que Caminham[/B][/COLOR]
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/gj3SuPPTGcz4XnHL6jHr3G8K1h9.jpg",[COLOR white][B]Mortos que Caminham (1962) [/B][/COLOR]
 https://www.googleapis.com/drive/v3/files/1-qirepP15sb_QUhfvQukZIxAzJYYYAd_?alt=media&key=AIzaSyCmGtXSIC6lBlxF0XdNZHiRZmXRLDNhlmY
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/oz0v7NybIAJoMmRBv4ebqL9gwq2.jpg",[COLOR white][B]Os Heróis de Telemark (1965) [/B][/COLOR]
+https://www.googleapis.com/drive/v3/files/1SJsz88Vj2xBEI43xQx934Nc5GmjLa6HZ?alt=media&key=AIzaSyCmGtXSIC6lBlxF0XdNZHiRZmXRLDNhlmY
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/71IJwiBW3wL._SL1100_.jpg",[COLOR white][B]Fuga de Colditz (2004)[/B][/COLOR]
+https://www.googleapis.com/drive/v3/files/1XlkpUbtNn6LB1S-tSa7yqRfbbGUWxNG_?alt=media&key=AIzaSyCmGtXSIC6lBlxF0XdNZHiRZmXRLDNhlmY
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/7R1taqXDOLhwetCvoGFp4ihICzs.jpg",[COLOR white][B]O Mais Longo dos Dias (1962)[/B][/COLOR]
-https://www.googleapis.com/drive/v3/files/1QWx4yqyYUY0txSN9_VDi3x-4ugUEt-5C?alt=media&key=AIzaSyCmGtXSIC6lBlxF0XdNZHiRZmXRLDNhlmY
+https://www.googleapis.com/drive/v3/files/1yYTXi3xMqqW2BOE4Uz4pwtDGSjesFmfY?alt=media&key=AIzaSyCmGtXSIC6lBlxF0XdNZHiRZmXRLDNhlmY
