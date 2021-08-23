@@ -8,6 +8,1252 @@
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
+<channels>
+<channel>
+<name>[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]</name>
+<thumbnail>https://i.ibb.co/MZ5t3vS/icon.png</thumbnail>
+<fanart>https://i.ibb.co/wYtwjTg/fanart.jpg</fanart>
+<info>FAÇA SUA ESCOLHA E DIVIRTA-SE</info>
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+ SEÇÃO DE FILMES
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channel>
+<name>[COLOR white][B]FILMES EM LANÇAMENTO[/B][/COLOR]</name>
+<thumbnail>https://i.ibb.co/gwDwqtp/lancamentos.png</thumbnail>
+<fanart>https://i.ibb.co/wYtwjTg/fanart.jpg</fanart>
+<info>[B]Assista aqui os melhores filmes EM LANÇAMENTO[/B]</info>
+
+<subchannel>
+<name>[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]</name>
+<thumbnail>https://i.ibb.co/MZ5t3vS/icon.png</thumbnail>
+<fanart>https://i.ibb.co/wYtwjTg/fanart.jpg</fanart>
+<info>[B]FAÇA SUA ESCOLHA E DIVIRTA-SE[/B]</info>
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[COLOR white][B]Justiça em Família (2021)[/B][/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=qyw94DV6LEk$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]Justisa em Familia[/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e8bebbfca6e12341f09b3597e69f314e5b9523cb$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Justisa em Familia - FHD LEG[/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3fb88221d1aff777e3363b3b964f61ca4103379f$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Justisa em Familia - FHD DUAL[/B][/COLOR]</link>
+
+link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=<LINKGDRIVE>$$lsname=[COLOR orange][B]G DRIVE[COLOR yellow] -> [COLOR white]Justisa em Familia - DUB[/B][/COLOR]</link>
+
+link><LINKUNIVERSAL>$$lsname=[COLOR orange][B]SERVER 1[COLOR yellow] -> [COLOR white]Justisa em Familia - DUB[/B][/COLOR]</link>
+
+<link>http://b5.vc:80/movie/gislene/102030/121160.mp4$$lsname=[COLOR orange][B]SERVER 2[COLOR yellow] -> [COLOR white]Justisa em Familia - DUB[/B][/COLOR]</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/wrwhbYVJK3O85tRLrkVjCXZniIJ.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/4VHe3qj9FbulVC2mY4iPCc73ccr.jpg</fanart>
+<info>Um viúvo arrasado (Jason Momoa) promete levar à Justiça as pessoas responsáveis pela morte da esposa. Ao mesmo tempo, ele precisa proteger a filha (Isabela Merced), a única família que lhe resta.</info>
+<genre>AÇÃO</genre>
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[COLOR white][B]O Esquadrão Suicida (2021) [/B][/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=h6bWwRCtg28$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]O Esquadrao Suicida[/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7a920c826e768c6eb95e2d9644d85a68a5cf0122$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]O Esquadrao Suicida - HD LEG[/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9d2314942b31139f84abdcef080870b6425ae7da$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]O Esquadrao Suicida - FHD DUAL[/B][/COLOR]</link>
+
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=<LINKGDRIVE>$$lsname=[COLOR orange][B]G DRIVE[COLOR yellow] -> [COLOR white]O Esquadrao Suicida - DUB[/B][/COLOR]</link>
+
+<link><LINKUNIVERSAL>$$lsname=[COLOR orange][B]SERVER 1[COLOR yellow] -> [COLOR white]O Esquadrao Suicida - DUB[/B][/COLOR]</link>
+
+<link><LINKUNIVERSAL>$$lsname=[COLOR orange][B]SERVER 2[COLOR yellow] -> [COLOR white]O Esquadrao Suicida - DUB[/B][/COLOR]</link>
+
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/wTS3dS2DJiMFFgqKDz5fxMTri.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/jlGmlFOcfo8n5tURmhC7YVd4Iyy.jpg</fanart>
+<info>Os supervilões Harley Quinn (Margot Robbie), Bloodsport (Idris Elba), Peacemaker (John Cena) e uma coleção de malucos condenados da prisão de Belle Reve juntam-se à super-secreta e super-obscura Força Tarefa X, enquanto são deixados na remota ilha de Corto Maltese para combater o inimigo.</info>
+<genre>SUPER-HERÓIS</genre>
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[COLOR white][B]Jungle Cruise: A Maldição Nos Confins Da Selva (2021)[/B][/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=81iqHKqQ1ss$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]Jungle Cruise: A Maldisao Nos Confins Da Selva[/B][/COLOR]</link>
+
+<link>plugin://plugin.video.elementum/play?uri=<LINKMAGNTREDUZIDO>$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Jungle Cruise: A Maldisao Nos Confins Da Selva - HD DUAL[/B][/COLOR]</link>
+
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:03dde8cd690a7122892153f3273247c7b13b0348$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Jungle Cruise: A Maldisao Nos Confins Da Selva - FHD DUAL[/B][/COLOR]</link>
+
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=<LINKGDRIVE>$$lsname=[COLOR orange][B]G DRIVE[COLOR yellow] -> [COLOR white]Jungle Cruise: A Maldisao Nos Confins Da Selva - DUB[/B][/COLOR]</link>
+
+<link>http://sv1.nowiptv.net:8880/movie/ACML2/67293456jg/98488.mp4$$lsname=[COLOR orange][B]SERVER 1[COLOR yellow] -> [COLOR white]Jungle Cruise: A Maldisao Nos Confins Da Selva - DUB[/B][/COLOR]</link>
+<link>http://b5.vc:80/movie/gislene/102030/115500.mp4$$lsname=[COLOR orange][B]SERVER 2[COLOR yellow] -> [COLOR white]Jungle Cruise: A Maldisao Nos Confins Da Selva - DUB[/B][/COLOR]</link>
+<link>https://video.wixstatic.com/video/16f3d4_c26342cca2c244d4abf5155866a1c88e/720p/mp4/file.mp4$$lsname=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]Jungle Cruise: A Maldisao Nos Confins Da Selva - DUB[/B][/COLOR]</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/9E76j2DcQv8LdbX1Wa9jpbDBfw1.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/iJmEzeyMXmtZwUPvUbMSwYcureK.jpg</fanart>
+<info>Frank trabalha como capitão de um barco em uma atração turística totalmente fantasiosa. Quis o destino que suas verdadeiras habilidades fossem colocadas à prova. Isso acontece quando ele conhece Lily, uma exploradora que não mede consequências para dar andamento em suas investigações. Quando ela e o irmão contratam Frank para comandar a embarcação numa expedição de verdade, em busca de um misterioso segredo, os perigos que os aguardavam eram mais reais do que podiam </info>
+<genre>AVENTURA</genre>
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B][COLOR white]Velozes e Furiosos 9 (2021) [/COLOR][/B]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=N2dx2M4L8T0$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white]Velozes e Furiosos 9[/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:98fb2ed049ac88a19f9707b476d0aaeaa34a70bb$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Velozes e Furiosos 9 - HD LEG[/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a4617c670978705cb7838c87f5d494257aebd4a6$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Velozes e Furiosos 9 - FHD LEG[/B][/COLOR]</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1bznYGWLWBO2fCdNheh9W0a-vPHLweHdV/view$$lsname=[COLOR orange][B]G DRIVE[COLOR yellow] -> [COLOR white]Velozes e Furiosos 9 - DUB[/B][/COLOR]</link>
+<link>http://sv1.nowiptv.net:8880/movie/ACML2/67293456jg/95140.mp4$$lsname=[COLOR orange][B]SERVER 1[COLOR yellow] -> [COLOR white]Velozes e Furiosos 9 - LEG[/B][/COLOR]</link>
+<link>http://b5.vc:80/movie/gislene/102030/112996.mkv$$lsname=[COLOR orange][B]SERVER 2[COLOR yellow] -> [COLOR white]Velozes e Furiosos 9 - DUB[/B][/COLOR]</link>
+<link>https://video.wixstatic.com/video/16f3d4_98be789d6b044150a194cf18daf36f74/720p/mp4/file.mp4$$lsname=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]Velozes e Furiosos 9 - FHD DUB[/B][/COLOR]</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/AsjqrHxb8RTSaFLts0MNuPm1Sn6.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/xXHZeb1yhJvnSHPzZDqee0zfMb6.jpg</fanart>
+<info>Dominic Toretto e sua família precisam enfrentar o seu irmão mais novo Jakob, um assassino mortal que está trabalhando com uma antiga inimiga, a cyber-terrorista Cipher.</info>
+<genre>AÇÃO</genre>
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B][COLOR white]Um Lugar Silencioso – Parte II (2021)[/COLOR][/B]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=AkIMYJpVM3w$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white]Um Lugar Silencioso - Parte II[/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d5e37ee7a951254fa65116c80eba1d470e7f7187$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Um Lugar Silencioso - Parte II - HD DUB[/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e2f7523a4e7fd6766418e83e3ee9d8e692f8dc7a$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Um Lugar Silencioso - Parte II - FHD DUAL[/B][/COLOR]</link>
+
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=<LINKGDRIVE>$$lsname=[COLOR orange][B]G DRIVE[COLOR yellow] -> [COLOR white]Um Lugar Silencioso - Parte II - DUB[/B][/COLOR]</link>
+
+<link>http://sv1.nowiptv.net:8880/movie/ACML2/67293456jg/97281.mp4$$lsname=[COLOR orange][B]SERVER 1[COLOR yellow] -> [COLOR white]Um Lugar Silencioso - Parte II - DUB[/B][/COLOR]</link>
+<link>http://b5.vc:80/movie/gislene/102030/112479.mp4$$lsname=[COLOR orange][B]SERVER 2[COLOR yellow] -> [COLOR white]Um Lugar Silencioso - Parte II - DUB[/B][/COLOR]</link>
+<link>https://video.wixstatic.com/video/16f3d4_936066c07f0947e89a2c4e2162f48014/480p/mp4/file.mp4$$lsname=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]Um Lugar Silencioso - Parte II - DUB[/B][/COLOR]</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/uv18OdnrgEfmQSWLZdM3A9yhii2.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/r0YaeOJ71iZKFuPnGJg92r7c9xF.jpg</fanart>
+<info>Logo após os acontecimentos mortais, até mesmo dentro de casa, a família Abbott precisa agora encarar o terror mundo afora, continuando a lutar para sobreviver em silêncio. Obrigados a se aventurar pelo desconhecido, eles rapidamente percebem que as criaturas que caçam pelo som não são as únicas ameaças que os observam pelo caminho de areia.</info>
+<genre>FICÇÃO</genre>
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B][COLOR white]Viúva Negra (2021)[/COLOR][/B]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=uNAxHLp7wv8$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white]Viuva Negra[/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8ea2e1760aa474d29d111c64fc9025008a1b0ad2$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Viuva Negra - HD DUB[/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e0d1b04ecc743a74b6e5874348203f16bb56dc0d$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Viuva Negra - FHD DUAL[/B][/COLOR]</link>
+
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=<LINKGDRIVE>$$lsname=[COLOR orange][B]G DRIVE[COLOR yellow] -> [COLOR white]Viuva Negra - DUB[/B][/COLOR]</link>
+
+<link>http://sv1.nowiptv.net:8880/movie/ACML2/67293456jg/97083.mp4$$lsname=[COLOR orange][B]SERVER 1[COLOR yellow] -> [COLOR white]Viuva Negra - DUB[/B][/COLOR]</link>
+<link>http://b5.vc:80/movie/gislene/102030/112993.mp4$$lsname=[COLOR orange][B]SERVER 2[COLOR yellow] -> [COLOR white]Viuva Negra - DUB[/B][/COLOR]</link>
+<link>https://video.wixstatic.com/video/16f3d4_186b554567c74e32b1f38e5e3e59ee30/720p/mp4/file.mp4$$lsname=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]Viuva Negra - DUB[/B][/COLOR]</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/38SVfXq1O45HKQ2RFUPvECz8Pse.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/a6dDJW2xlKhwQRpDtWxzmy5Aq6s.jpg</fanart>
+<info>Natasha Romanoff "Viúva Negra" precisa confrontar partes de sua história quando surge uma conspiração perigosa ligada ao seu passado. Perseguida por uma força que não irá parar até derrotá-la, Natasha terá que lidar com sua antiga vida de espiã, e também reencontrar membros de sua família que deixou para trás antes de se tornar parte dos Vingadores.</info>
+<genre>SUPER-HERÓIS</genre>
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[COLOR white][B]Invocação do Mal 3: A Ordem do Demônio (2021)[/B][/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=dFUX6rD86b8$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white]Invocasao do Mal 3: A Ordem do Demonio[/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:752583640f73300e0c35814377bb9821fb2e11a1$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Invocasao do Mal 3: A Ordem do Demonio - HD LEG[/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7757081feb5f801552d2048fcb1f81b83d5d08a4$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Invocasao do Mal 3: A Ordem do Demonio - FHD DUAL[/B][/COLOR]</link>
+
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=<LINKGDRIVE>$$lsname=[COLOR orange][B]G DRIVE[COLOR yellow] -> [COLOR white]Invocasao do Mal 3: A Ordem do Demonio - DUB[/B][/COLOR]</link>
+
+<link>http://sv1.nowiptv.net:8880/movie/ACML2/67293456jg/95968.mp4$$lsname=[COLOR orange][B]SERVER 1[COLOR yellow] -> [COLOR white]Invocasao do Mal 3: A Ordem do Demonio - DUB[/B][/COLOR]</link>
+<link>http://b5.vc:80/movie/gislene/102030/112008.mp4$$lsname=[COLOR orange][B]SERVER 2[COLOR yellow] -> [COLOR white]Invocasao do Mal 3: A Ordem do Demonio - DUB[/B][/COLOR]</link>
+<link>https://video.wixstatic.com/video/16f3d4_d3ebecd8299e43a68f04c5ae82a02a28/720p/mp4/file.mp4$$lsname=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]Invocasao do Mal 3: A Ordem do Demonio - DUB[/B][/COLOR]</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/9kuOPRV1LLZ5A0rCSobA82HZog9.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/6Z0FhoZM56YkuXhvklMTpc7rc5u.jpg</fanart>
+<info>Revela uma história arrepiante de terror, assassinato e um mal desconhecido que chocou até os investigadores paranormais da vida real, Ed e Lorraine Warren. Um dos casos mais intrigantes de seus arquivos, começa com uma luta pela alma de um garoto, depois os leva além de tudo o que já haviam visto antes, para marcar a primeira vez na história dos EUA um suspeito de assassinato alega possessão demoníaca como defesa.</info>
+<genre>SUSPENSE E TERROR</genre>  
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[COLOR white][B]Luca (2021)[/B][/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=YdAIBlPVe9s$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white]Luca[/B][/COLOR]</link>
+
+<link>plugin://plugin.video.elementum/play?uri=<LINKMAGNTREDUZIDO>$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Luca - HD DUAL[/B][/COLOR]</link>
+
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e88d7e02bf184aab8760055ee01b2c64166ac5f7$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Luca - FHD DUAL[/B][/COLOR]</link>
+
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=<LINKGDRIVE>$$lsname=[COLOR orange][B]G DRIVE[COLOR yellow] -> [COLOR white]Luca - DUB[/B][/COLOR]</link>
+
+<link>http://sv1.nowiptv.net:8880/movie/ACML2/67293456jg/96052.mp4$$lsname=[COLOR orange][B]SERVER 1[COLOR yellow] -> [COLOR white]Luca - DUB[/B][/COLOR]</link>
+<link>http://b5.vc:80/movie/gislene/102030/111459.mp4$$lsname=[COLOR orange][B]SERVER 2[COLOR yellow] -> [COLOR white]Luca - DUB[/B][/COLOR]</link>
+<link>https://video.wixstatic.com/video/16f3d4_567a1bce9e5c4ddbba023d6a0c8b343c/1080p/mp4/file.mp4$$lsname=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]Luca - DUB[/B][/COLOR]</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/1lk7QISmTam2iOzzUAQYs6voeFg.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/qtVYMi4gkTB7xNNsMyG2z3UHGMU.jpg</fanart>
+<info>Ambientado na bela Riviera Italiana, este longa-metragem da Disney e da Pixar acompanha as aventuras do garoto Luca durante um verão inesquecível repleto de macarronadas, gelatos e passeios incríveis de motoneta ao lado de seu novo amigo Alberto. Mas um grande segredo ameaça colocar fim à diversão: abaixo da superfície da água, eles são monstros marinhos!</info>
+<genre>ANIMAÇÃO</genre>  
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+]<item>
+<title>[COLOR white][B]Rogai Por Nós (2021)[/B][/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=NmQiJPLYzPI$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white]Rogai Por Nos[/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7c9c67ce89ed34dd4209828bfd06c69a362c5d04$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Rogai Por Nos - HD LEG[/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:03a8c3ec70ea9d383591953f0c4121b8c838ef6f$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Rogai Por Nos - FHD DUAL[/B][/COLOR]</link>
+
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=<LINKGDRIVE>$$lsname=[COLOR orange][B]G DRIVE[COLOR yellow] -> [COLOR white]Rogai Por Nos - DUB[/B][/COLOR]</link>
+
+<link>http://sv1.nowiptv.net:8880/movie/ACML2/67293456jg/93689.mp4$$lsname=[COLOR orange][B]SERVER 1[COLOR yellow] -> [COLOR white]Rogai Por Nos - DUB[/B][/COLOR]</link>
+<link>http://b5.vc:80/movie/gislene/102030/110844.mp4$$lsname=[COLOR orange][B]SERVER 2[COLOR yellow] -> [COLOR white]Rogai Por Nos - DUB[/B][/COLOR]</link>
+<link>https://video.wixstatic.com/video/16f3d4_0d1d9f3fae5646e8a5a7b03f19d63e4a/720p/mp4/file.mp4$$lsname=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]NomedoFilme - DUB[/B][/COLOR]</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/znrtj0lFOgEa8bbAbck1QsvvQ6h.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/l8VkL1KzkGkrO8BCsqF02urdfZ7.jpg</fanart>
+<info>Conheça Alice, uma jovem com deficiência auditiva que, após uma suposta visita da Virgem Maria, é inexplicavelmente capaz de ouvir, falar e curar os enfermos. À medida que a notícia se espalha e pessoas de perto e de longe se reúnem para testemunhar seus milagres, um jornalista decadente (Jeffrey Dean Morgan), que espera reviver sua carreira, visita a pequena cidade da Nova Inglaterra para investigar o fenômeno. Quando eventos terríveis começam a acontecer por toda parte, ele começa a questionar se esses fenômenos são obras da Virgem Maria ou algo muito mais sinistro.</info>
+<genre>SUSPENSE E TERROR</genre>  
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[COLOR white][B]Cruella (2021)[/B][/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=p78Y5-zS3kY$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white]Cruella[/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:37c9d3832ab05c6af5d2326b8294e7e500464220$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Cruella - HD LEG[/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0657a6a19541a05cacecf638445b55663acd19d7$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Cruella - FHD DUAL[/B][/COLOR]</link>
+
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=<LINKGDRIVE>$$lsname=[COLOR orange][B]G DRIVE[COLOR yellow] -> [COLOR white]Cruella - DUB[/B][/COLOR]</link>
+
+<link>http://sv1.nowiptv.net:8880/movie/ACML2/67293456jg/95477.mp4$$lsname=[COLOR orange][B]SERVER 1[COLOR yellow] -> [COLOR white]Cruella - DUB[/B][/COLOR]</link>
+<link>http://b5.vc:80/movie/gislene/102030/108619.mp4$$lsname=[COLOR orange][B]SERVER 2[COLOR yellow] -> [COLOR white]Cruella - DUB[/B][/COLOR]</link>
+<link>https://video.wixstatic.com/video/16f3d4_9aaf88aa16154eae81eb40b5dc0c9892/1080p/mp4/file.mp4$$lsname=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]Cruella - DUB[/B][/COLOR]</link>
+
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/ljPHd7WiPVKmuXi1hgQUpZQslbC.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/8ChCpCYxh9YXusmHwcE9YzP0TSG.jpg</fanart>
+<info>Na Londres dos anos 70 em meio à revolução do punk rock, Estella, uma garota inteligente e criativa determinada a fazer um nome para si através de seus designs. Ela faz amizade com uma dupla de jovens ladrões e, juntos, constroem uma vida para si nas ruas de Londres. Um dia, o talento de Estella para a moda chama a atenção da Baronesa Von Hellman, uma lenda fashion que é devastadoramente chique e assustadora. Mas o relacionamento delas desencadeia um curso de eventos e revelações que farão com que Estella abrace seu lado rebelde e se torne a Cruella má, elegante e voltada para a vingança.</info>
+<genre>COMÉDIA</genre>  
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[COLOR white][B]Infiltrado (2021)[/B][/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=9_PTB062yec$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white]Infiltrado[/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:998765de87413c60e540fb2d36ef3e97e8cacdcf$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Infiltrado - HD LEG[/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:db89d422001621e786604454872dcc28b766e630$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Infiltrado - FHD LEG[/B][/COLOR]</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=<LINKGDRIVE>$$lsname=[COLOR orange][B]G DRIVE[COLOR yellow] -> [COLOR white]Infiltrado - DUB[/B][/COLOR]</link>
+<link>http://sv1.nowiptv.net:8880/movie/ACML2/67293456jg/95438.mp4$$lsname=[COLOR orange][B]SERVER 1[COLOR yellow] -> [COLOR white]Infiltrado - LEG[/B][/COLOR]</link>
+<link>http://b5.vc:80/movie/gislene/102030/108699.mp4$$lsname=[COLOR orange][B]SERVER 2[COLOR yellow] -> [COLOR white]Infiltrado - DUB[/B][/COLOR]</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/dAtAp4IeT6EYGhewfnNNhalobme.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/70AV2Xx5FQYj20labp0EGdbjI6E.jpg</fanart>
+<info>Harry, conhecido apenas como H, é um homem misterioso que trabalha para uma empresa de carros-fortes e movimenta grandes quantias de dinheiro pela cidade de Los Angeles. Quando, ao impedir um assalto, ele surpreende a todos com suas habilidades de combate, suas verdadeiras intenções começam a ser questionadas e um plano maior é revelado.</info>
+<genre>AÇÃO</genre>  
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[COLOR white][B]Army of the Dead: Invasão em Las Vegas (2021)[/B][/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=f303fsdoBHY$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white]Army of the Dead: Invasao em Las Vegas[/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2b8e45af58d92f96a1d9b5ecd9c5ddd6fde7ec92$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Army of the Dead: Invasao em Las Vegas - HD DUAL[/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:dcd64d5325eb57a09f67497d294a6b72f4a2c7c4$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Army of the Dead: Invasao em Las Vegas - FHD DUAL[/B][/COLOR]</link>
+
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=<LINKGDRIVE>$$lsname=[COLOR orange][B]G DRIVE[COLOR yellow] -> [COLOR white]Army of the Dead: Invasao em Las Vegas - DUB[/B][/COLOR]</link>
+
+<link>http://sv1.nowiptv.net:8880/movie/ACML2/67293456jg/95139.mp4$$lsname=[COLOR orange][B]SERVER 1[COLOR yellow] -> [COLOR white]Army of the Dead: Invasao em Las Vegas - DUB[/B][/COLOR]</link>
+<link>http://b5.vc:80/movie/gislene/102030/107761.mp4$$lsname=[COLOR orange][B]SERVER 2[COLOR yellow] -> [COLOR white]Army of the Dead: Invasao em Las Vegas - DUB[/B][/COLOR]</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/kn72J6BFcN71VYOl8sTVeo7x9ph.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/nEPp3vCTKDtU3SZgbqhd8iVn7jZ.jpg</fanart>
+<info>Após um surto de zumbis em Las Vegas, nos Estados Unidos, um grupo de mercenários faz uma aposta final, aventurando-se na zona de quarentena para tentar realizar o maior assalto de todos os tempos.</info>
+<genre>SUSPENSE E TERROR</genre>  
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[COLOR white][B]O Gângster, O Policial e o Diabo (2021)[/B][/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=by5RTLf_LQo$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white]O Gangster, O Policial e o Diabo[/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:C29954B1EEB766709DB77F4C8F850F91C74C2885$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]O Gangster, O Policial e o Diabo - HD LEG[/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:78143e074f23a06750ff24dab22d473793328c53$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]O Gangster, O Policial e o Diabo - FHD DUAL[/B][/COLOR]</link>
+
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=<LINKGDRIVE>$$lsname=[COLOR orange][B]G DRIVE[COLOR yellow] -> [COLOR white]O Gangster, O Policial e o Diabo - DUB[/B][/COLOR]</link>
+
+<link><LINKUNIVERSAL>$$lsname=[COLOR orange][B]SERVER 1[COLOR yellow] -> [COLOR white]O Gangster, O Policial e o Diabo - DUB[/B][/COLOR]</link>
+
+<link>http://b5.vc:80/movie/gislene/102030/103142.mp4$$lsname=[COLOR orange][B]SERVER 2[COLOR yellow] -> [COLOR white]O Gangster, O Policial e o Diabo - DUB[/B][/COLOR]</link>
+<thumbnail>https://i.imgur.com/SGnGbEG.png</thumbnail>
+<fanart>https://www.previewcdn.com/files/2564_3_uk_4004_1583581260_5e63884ca14fc.jpg</fanart>
+<info>Jang Dong-Soo (Ma Dong-Seok) é um chefe de gangue em Cheonan. Ele se torna o alvo do serial killer Kang Kyung-Ho (Kim Sung-Kyu). Jang Dong-Soo sobrevive e ele é a única pessoa que sobreviveu de um ataque de Kang Kyung-Ho. O detetive Jung Tae-Seok (Kim Moo-Yul) detesta membros do crime organizado, mas trabalha com Jang Dong-Soo para capturar o serial killer Kang Kyung-Ho. </info>
+<genre>AÇÃO</genre>  
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[COLOR white][B]Mortal Kombat (2021)[/B][/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=4lEpxpZqhjc$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]Mortal Kombat[/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3bf4c48df74c98a7947154775e05c179f17e43d5$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Mortal Kombat - HD DUAL[/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2e08ac40c677ae831cb57de6b9479dc0560aa132$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Mortal Kombat - FHD DUAL[/B][/COLOR]</link>
+
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=<LINKGDRIVE>$$lsname=[COLOR orange][B]G DRIVE[COLOR yellow] -> [COLOR white]Mortal Kombat - DUB[/B][/COLOR]</link>
+
+<link>http://sv1.nowiptv.net:8880/movie/ACML2/67293456jg/96322.mp4$$lsname=[COLOR orange][B]SERVER 1[COLOR yellow] -> [COLOR white]Mortal Kombat - DUB[/B][/COLOR]</link>
+<link>http://b5.vc:80/movie/gislene/102030/111550.mp4$$lsname=[COLOR orange][B]SERVER 2[COLOR yellow] -> [COLOR white]Mortal Kombat - DUB[/B][/COLOR]</link>
+<link>https://video.wixstatic.com/video/16f3d4_9d223fa33e9a478fb1ab239d8553d2b8/1080p/mp4/file.mp4$$lsname=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]Mortal Kombat - LEG[/B][/COLOR]</link>
+
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/w8BVC3qrCWCiTHRz4Rft12dtQF0.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/A2g2Ogh5dLBMNQxcuu6QfS1YR3s.jpg</fanart>
+<info>Nova aventura baseada no videogame Mortal Kombat. Na história, um jovem que nunca treinou artes marciais acaba envolvido em um gigantesco torneio de luta envolvendo guerreiros da Terra e lutadores e outras dimensões.</info>
+<genre>AÇÃO</genre>  
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[COLOR white][B]Sem Remorso (2021)[/B][/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=do-OmONBTss$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]Sem Remorso[/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ff7763fedfa6242013a9099c9cb63ea31ead0f61$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Sem Remorso - HD LEG[/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9e0f71242d2aa553938915d6245cab9401620cc1$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Sem Remorso - FHD DUAL[/B][/COLOR]</link>
+
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=<LINKGDRIVE>$$lsname=[COLOR orange][B]G DRIVE[COLOR yellow] -> [COLOR white]Sem Remorso - DUB[/B][/COLOR]</link>
+
+<link>http://sv1.nowiptv.net:8880/movie/ACML2/67293456jg/92395.mp4$$lsname=[COLOR orange][B]SERVER 1[COLOR yellow] -> [COLOR white]Sem Remorso - DUB[/B][/COLOR]</link>
+<link>http://b5.vc:80/movie/gislene/102030/104142.mp4$$lsname=[COLOR orange][B]SERVER 2[COLOR yellow] -> [COLOR white]Sem Remorso - DUB[/B][/COLOR]</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/uHEZ4ZMziIjlAgCTQAEh9ROvtj0.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/fPGeS6jgdLovQAKunNHX8l0avCy.jpg</fanart>
+<info>Um agente da CIA busca vingança depois de sua namorada ter sido morta por um traficante de Baltimore.</info>
+<genre>AÇÃO</genre>  
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[COLOR white][B]Uma Sombra na Nuvem (2021)[/B][/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=d041Wa7LJfs$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]Uma Sombra na Nuvem[/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:797e749546422a603b73f82960bce55a53de16e4$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Uma Sombra na Nuvem - HD LEG[/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:bb1e52f5ac3739f7680e64c33f4b2d218ea95a78$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Uma Sombra na Nuvem - FHD DUAL[/B][/COLOR]</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=<LINKGDRIVE>$$lsname=[COLOR orange][B]G DRIVE[COLOR yellow] -> [COLOR white]Uma Sombra na Nuvem - DUB[/B][/COLOR]</link>
+<link>http://sv1.nowiptv.net:8880/movie/ACML2/67293456jg/82429.mp4$$lsname=[COLOR orange][B]SERVER 1[COLOR yellow] -> [COLOR white]Uma Sombra na Nuvem - DUB[/B][/COLOR]</link>
+<thumbnail>https://megafilmes.org/wp-content/uploads/2021/01/789450.jpg</thumbnail>
+<fanart>http://image.tmdb.org/t/p/original/eCzgK2kMLBMgRCPDB9MthT4aw14.jpg</fanart>
+<info>Uma piloto (Chloe Grace Moretz) embarca em uma fortaleza voadora B-17 com a missão de transportar um item confidencial. Enquanto tenta lidar com o machismo da equipe formada inteiramente por homens, a militar começa a perceber que algo estranho está acontecendo na aeronave. Além de uma emboscada dos japoneses, o esquadrão militar também tem que combater um inimigo misterioso presente dentro do próprio avião. </info>
+<genre>GUERRA</genre>  
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[COLOR white][B]Anônimo (2021)[/B][/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=f0AeTa4RaR4$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]Anonimo[/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:99fbae0727e8c2c3fc25727835ce9baab0372ef0$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Anonimo - HD DUAL[/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:470b8a934f1448e9dba3d2bb62668bad6e2a5f05$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Anonimo - FHD DUAL[/B][/COLOR]</link>
+
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=<LINKGDRIVE>$$lsname=[COLOR orange][B]G DRIVE[COLOR yellow] -> [COLOR white]Anonimo - DUB[/B][/COLOR]</link>
+
+<link>http://sv1.nowiptv.net:8880/movie/ACML2/67293456jg/22177.mp4$$lsname=[COLOR orange][B]SERVER 1[COLOR yellow] -> [COLOR white]Anonimo - DUB[/B][/COLOR]</link>
+<link>http://b5.vc:80/movie/gislene/102030/111450.mp4$$lsname=[COLOR orange][B]SERVER 2[COLOR yellow] -> [COLOR white]Anonimo - DUB[/B][/COLOR]</link>
+<link>https://video.wixstatic.com/video/16f3d4_059ae6601c644ad89a3164dc9b3c0c37/720p/mp4/file.mp4$$lsname=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]Anonimo - DUB[/B][/COLOR]</link>
+<thumbnail>https://image.tmdb.org/t/p/w342/woPYFGKwVULILbO7q44HmsNY0kO.jpg</thumbnail>
+<fanart>https://img.ibxk.com.br/2020/12/10/10165551543272.jpg</fanart>
+<info>Quando dois ladrões invadem sua casa no subúrbio uma noite, Hutch se recusa a defender a si mesmo ou a sua família, na esperança de evitar violência grave. Seu filho adolescente, Blake, está desapontado com ele e sua esposa, Becca, parece se afastar ainda mais. Em consequência, o incidente acerta a raiva latente de Hutch, desencadeando instintos adormecidos e impulsionando-o em um caminho brutal que revelará segredos obscuros e habilidades letais para salvar sua família.</info>
+<genre>AÇÃO</genre>  
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[COLOR white][B]Godzilla vs. Kong (2021)[/B][/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=ZQA-Bg9MydE$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]Godzilla vs. Kong[/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:227f05638d05c6798b4d86e34429fb7d34474576$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Godzilla vs. Kong - HD LEG[/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:cbcc53d5c378c75feec53ab6ef3aa54cd64ab660$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Godzilla vs. Kong - FHD DUAL[/B][/COLOR]</link>
+
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=<LINKGDRIVE>$$lsname=[COLOR orange][B]G DRIVE[COLOR yellow] -> [COLOR white]Godzilla vs. Kong - DUB[/B][/COLOR]</link>
+
+<link>http://sv1.nowiptv.net:8880/movie/ACML2/67293456jg/95314.mp4$$lsname=[COLOR orange][B]SERVER 1[COLOR yellow] -> [COLOR white]Godzilla vs. Kong - DUB[/B][/COLOR]</link>
+<link>http://b5.vc:80/movie/gislene/102030/108075.mp4$$lsname=[COLOR orange][B]SERVER 2[COLOR yellow] -> [COLOR white]Godzilla vs. Kong - DUB[/B][/COLOR]</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/klAIFewuqcyEmH1SMtR2XbMyqzM.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/iopYFB1b6Bh7FWZh3onQhph1sih.jpg</fanart>
+<info>Em uma época em que os monstros andam na Terra, a luta da humanidade por seu futuro coloca Godzilla e Kong em rota de colisão que verá as duas forças mais poderosas da natureza no planeta se confrontarem em uma batalha espetacular para as idades. Enquanto Monarch embarca em uma missão perigosa em terreno desconhecido e descobre pistas sobre as origens dos Titãs, uma conspiração humana ameaça tirar as criaturas, boas e más, da face da terra para sempre.</info>
+<genre>FICÇÃO E FANTASIA</genre>  
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[COLOR white][B]Liga da Justiça de Zack Snyder (2021)[/B][/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=vM-Bja2Gy04$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]Liga da Justiza de Zack Snyder[/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:02c4214302c84a1dae1b0aa8fb90a338ee189a41$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Liga da Justiza de Zack Snyder - HD DUAL[/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8c8cacc0a491342496201d418b47fd98f1cd5934$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Liga da Justiza de Zack Snyder - FHD DUAL[/B][/COLOR]</link>
+
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=<LINKGDRIVE>$$lsname=[COLOR orange][B]G DRIVE[COLOR yellow] -> [COLOR white]Liga da Justiza de Zack Snyder - DUB[/B][/COLOR]</link>
+
+<link>http://sv1.nowiptv.net:8880/movie/ACML2/67293456jg/86476.mp4$$lsname=[COLOR orange][B]SERVER 1[COLOR yellow] -> [COLOR white]Liga da Justiza de Zack Snyder - DUB[/B][/COLOR]</link>
+<link>http://b5.vc:80/movie/gislene/102030/98764.mp4$$lsname=[COLOR orange][B]SERVER 2[COLOR yellow] -> [COLOR white]Liga da Justiza de Zack Snyder - DUB[/B][/COLOR]</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/v9XwEXYWpxt2rpkmFBiQ1zeyKUy.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/4iTd1FoDuNZmXA16vpwfaPc2dl7.jpg</fanart>
+<info>Determinado a garantir que o sacrifício final do Superman não foi em vão, Bruce Wayne alinha forças com Diana Prince com planos de recrutar uma equipe de metahumanos para proteger o mundo de uma ameaça de proporções catastróficas que se aproxima.</info>
+<genre>SUPER-HERÓIS</genre>  
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+<item>
+<title>[COLOR white][B]Pinóquio (2021)[/B][/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=jFSHLeIFL_0$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]Pinoquio[/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:24aeea4d689a77f20bf6264bdbf87fd3a0363ca7$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Pinoquio - HD LEG[/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a55b9dade2f8fcf8635ad45bf52943c7b2f2ee8c$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Pinoquio - FHD DUAL[/B][/COLOR]</link>
+
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=<LINKGDRIVE>$$lsname=[COLOR orange][B]G DRIVE[COLOR yellow] -> [COLOR white]Pinoquio - DUB[/B][/COLOR]</link>
+
+<link>http://sv1.nowiptv.net:8880/movie/ACML2/67293456jg/25617.mp4$$lsname=[COLOR orange][B]SERVER 1[COLOR yellow] -> [COLOR white]Pinoquio - DUB[/B][/COLOR]</link>
+<link>http://b5.vc:80/movie/gislene/102030/100126.mp4$$lsname=[COLOR orange][B]SERVER 2[COLOR yellow] -> [COLOR white]Pinoquio - DUB[/B][/COLOR]</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/9EuGKjsYegO58RaMYWGvnurHo7u.jpg </thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/vaF9tGUsmK9GttgO6WqkX4BoGfX.jpg </fanart>
+<info>Quando o marceneiro Geppetto vê uma estrela cadente, ele deseja que o boneco que acabou de terminar, Pinóquio , possa se tornar um garoto de verdade. À noite, a Fada Azul concede o desejo de Geppetto e pede ao Grilo Falante que sirva como a consciência do garoto de madeira. Mas o ingênuo e confiante Pinóquio tem uma limitação: Quando mente, seu nariz cresce. </info>
+<genre>FICÇÃO E FANTASIA</genre>  
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[COLOR white][B]Um Príncipe em Nova York 2 (2021)[/B][/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=HyZlbWhg4RA$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]Um Principe em Nova York 2[/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:83dab3a81af82e3f7141ed9404c4b384ef8c46cf$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Um Principe em Nova York 2 - HD DUAL[/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0c4da639f518a70e932376ecfd0eb84c056733b3$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Um Principe em Nova York 2 - FHD DUAL[/B][/COLOR]</link>
+
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=<LINKGDRIVE>$$lsname=[COLOR orange][B]G DRIVE[COLOR yellow] -> [COLOR white]Um Principe em Nova York 2 - DUB[/B][/COLOR]</link>
+
+<link>http://sv1.nowiptv.net:8880/movie/ACML2/67293456jg/84748.mp4$$lsname=[COLOR orange][B]SERVER 1[COLOR yellow] -> [COLOR white]Um Principe em Nova York 2 - DUB[/B][/COLOR]</link>
+<link>http://b5.vc:80/movie/gislene/102030/96896.mp4$$lsname=[COLOR orange][B]SERVER 2[COLOR yellow] -> [COLOR white]Um Principe em Nova York 2 - DUB[/B][/COLOR]</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/mpXRG5zPUT18IeYvCoC4zOscked.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/vKzbIoHhk1z9DWYi8kyFe9Gg0HF.jpg</fanart>
+<info>Situado no luxuoso país da realeza Zamunda, o recém coroado Rei Akeem e seu confidente Semmi embarcam em uma nova aventura que os levará ao redor do mundo: de sua grande nação Africana ao Queens, bairro de Nova York – onde tudo começou!</info>
+<genre>COMÉDIA</genre>  
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[COLOR white][B]Tom & Jerry – O Filme (2021)[/B][/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=cy2QirXhk0Q$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]Tom e Jerry – O Filme[/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e612f1042782c5277debefd057cab5fda26d3768$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]NomedoFilme - HD LEG[/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:00ea7ce75c42176095d89be23af2d3d6aaf3f61f$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]NomedoFilme - FHD DUAL[/B][/COLOR]</link>
+
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=<LINKGDRIVE>$$lsname=[COLOR orange][B]G DRIVE[COLOR yellow] -> [COLOR white]NomedoFilme - DUB[/B][/COLOR]</link>
+
+<link>http://sv1.nowiptv.net:8880/movie/ACML2/67293456jg/83967.mp4$$lsname=[COLOR orange][B]SERVER 1[COLOR yellow] -> [COLOR white]NomedoFilme - DUB[/B][/COLOR]</link>
+<link>http://b5.vc:80/movie/gislene/102030/100122.mp4$$lsname=[COLOR orange][B]SERVER 2[COLOR yellow] -> [COLOR white]NomedoFilme - DUB[/B][/COLOR]</link>
+<link>https://video.wixstatic.com/video/16f3d4_9a310783d7ed43d38f754aa6f459bb80/1080p/mp4/file.mp4$$lsname=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]NomedoFilme - DUB[/B][/COLOR]</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/6KErczPBROQty7QoIsaa6wJYXZi.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/aGcAg7wge0xAqJuOTJs6HPNXVVo.jpg</fanart>
+<info>Um gato de rua chamado Tom é contratado por uma garota chamada Kayla, uma jovem empregada que trabalha em um hotel glamouroso em Nova York, para se livrar de Jerry, um rato travesso que se mudou para o hotel, antes que ele seja a ruína de um importante casamento.</info>
+<genre>ANIMAÇÃO</genre>  
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[COLOR white][B]Bad Trip (2021)[/B][/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=q9sEYMdG1p4$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]Bad Trip[/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:05117df08899c36abbaf27386ca96c73cd970472$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Bad Trip - HD LEG[/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7b4151a4e49a1a99d00560dbe496ddf1957756a6$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Bad Trip - FHD DUAL[/B][/COLOR]</link>
+
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=<LINKGDRIVE>$$lsname=[COLOR orange][B]G DRIVE[COLOR yellow] -> [COLOR white]Bad Trip - DUB[/B][/COLOR]</link>
+
+<link>http://sv1.nowiptv.net:8880/movie/ACML2/67293456jg/88172.mp4$$lsname=[COLOR orange][B]SERVER 1[COLOR yellow] -> [COLOR white]Bad Trip - DUB[/B][/COLOR]</link>
+<link>http://b5.vc:80/movie/gislene/102030/100348.mp4$$lsname=[COLOR orange][B]SERVER 2[COLOR yellow] -> [COLOR white]Bad Trip - DUB[/B][/COLOR]</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/A1Gy5HX3DKGaNW1Ay30NTIVJqJ6.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/a9zFUuxzChmAlIybVge9IZt1hH0.jpg</fanart>
+<info>Nesta comédia de câmera escondida, dois amigos pegam a estrada para Nova York e, no caminho, fazem pegadinhas hilárias com pessoas reais.</info>
+<genre>COMÉDIA</genre>  
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[COLOR white][B]NomedoFilme (DATA)[/B][/COLOR]</title>
+
+<link>plugin://plugin.video.youtube/play/?video_id=<LINKDOTRAILER>$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]NomedoFilme[/B][/COLOR]</link>
+
+<link>plugin://plugin.video.elementum/play?uri=<LINKMAGNTREDUZIDO>$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]NomedoFilme - HD DUAL[/B][/COLOR]</link>
+
+<link>plugin://plugin.video.elementum/play?uri=<LINKMAGNETREDUZIDO>$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]NomedoFilme - FHD DUAL[/B][/COLOR]</link>
+
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=<LINKGDRIVE>$$lsname=[COLOR orange][B]G DRIVE[COLOR yellow] -> [COLOR white]NomedoFilme - DUB[/B][/COLOR]</link>
+
+<link><LINKUNIVERSAL>$$lsname=[COLOR orange][B]SERVER 1[COLOR yellow] -> [COLOR white]NomedoFilme - DUB[/B][/COLOR]</link>
+
+<link><LINKUNIVERSAL>$$lsname=[COLOR orange][B]SERVER 2[COLOR yellow] -> [COLOR white]NomedoFilme - DUB[/B][/COLOR]</link>
+
+<thumbnail><ICONEDOFILME></thumbnail>
+<fanart><FUNDODOFILME></fanart>
+<info>SINOPSEDOFILME></info>
+<genre>NOMEDOGENERO</genre>
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+COLE AQUI NOVO ITEM EM FILMES 
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+PRIMEIRA SEÇÃO DE SÉRIES - COMPLETAS
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channel>
+<name>[COLOR white][B]SÉRIES EM LANÇAMENTO (COMPLETAS)[/B][/COLOR]</name>
+<thumbnail><https://i.ibb.co/gwDwqtp/lancamentos.png></thumbnail>
+<fanart><FUNDODOGENERO></fanart>
+<info>[B]Assista aqui as melhores séries EM LANÇAMENTO[/B]</info>
+
+<subchannel>
+<name>[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]</name>
+<thumbnail>https://i.ibb.co/MZ5t3vS/icon.png</thumbnail>
+<fanart>https://i.ibb.co/wYtwjTg/fanart.jpg</fanart>
+<info>[B]FAÇA SUA ESCOLHA E DIVIRTA-SE[/B]</info>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<subchannel>
+<name>[COLOR white][B]Mestres do Universo Salvando Eternia - (2021) 05 EPs[/B][/COLOR]</name>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/k1cWkGvgkYsJ66uJumGxEHOjZFn.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/ApyqajfQc88MLDPhp3JjsQ4oBDZ.jpg</fanart>
+<info>Assista aqui os episódios da série Salvando Eternia
+[COLOR orange][B]ANIMAÇÃO[/B][/COLOR]
+[COLOR orange][B]ANOS - 2021[/B][/COLOR]
+[COLOR orange][B]01 TEMP  - 05 EPs[/B][/COLOR]
+</info>
+
+<subitems>
+<subitem>
+<title>[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]</title>
+<link>NOLINK</link>
+<thumbnail>https://i.ibb.co/MZ5t3vS/icon.png</thumbnail>
+<fanart>https://i.ibb.co/wYtwjTg/fanart.jpg</fanart>
+<info>FAÇA SUA ESCOLHA E DIVIRTA-SE</info>
+</subitem>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<subitem>
+<title>[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white]Mestres do Universo Salvando Eternia[/B][/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=I9FjEY-wxt4</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/2atC8jd6uINWIQedu7Pk25OV6aF.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/sGf1u9wGfq8cqz1FUCxyQi5VgjT.jpg</fanart>
+<info>Assista ao trailer</info>
+<genre>ANIMAÇÃO</genre> 
+</subitem>
+
+<subitem>
+<title>[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Mestres do Universo Salvando Eternia - (2021) 05 EPs[/B][/COLOR]</title>
+
+<link>NOLINK$$lsname=[COLOR orange][B] Temporada 01 - DUB[/B][/COLOR]</link>	
+
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e26c7601eeecd7b2a3448518e87a29e21f8d315c$$lsname=[COLOR orange][B]T01[COLOR yellow] -> [COLOR white]COMPLETA - HD - LEG[/B][/COLOR]</link>
+
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8d659482ff17071a355b846b469a39adc066a65f$$lsname=[COLOR orange][B]T01[COLOR yellow] -> [COLOR white]COMPLETA - FHD - DUAL[/B][/COLOR]</link>
+
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/2atC8jd6uINWIQedu7Pk25OV6aF.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/sGf1u9wGfq8cqz1FUCxyQi5VgjT.jpg</fanart>
+<info>A guerra pelo reino chega ao ponto culminante, continuando a história que começou nos anos 80. A terrível batalha entre He-Man e Esqueleto deixou Eternia dividida, e os Guardiões de Grayskull se separaram. Agora, muitas décadas depois, Teela precisa reunir esse grupo de heróis e decifrar o misterioso sumiço da Espada do Poder, em uma corrida contra o tempo para recuperar Eternia e evitar a destruição do universo.</info>
+<genre>ANIMAÇÃO</genre>
+</subitem>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+subitem>
+<title>[COLOR orange][B]G DRIVE[COLOR yellow] -> [COLOR white]Mestres do Universo Salvando Eternia - (2021) 05 EPs[/B][/COLOR]</title>
+
+<link>NOLINK$$lsname=[COLOR orange][B] Temporada 01 - DUB[/B][/COLOR]</link>	
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+<link><LINKUNIVVERSAL>$$lsname=[COLOR orange][B]T01E01[COLOR yellow] -> [COLOR white]NomedoEpisodio[/B][/COLOR]</link>	
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/2atC8jd6uINWIQedu7Pk25OV6aF.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/sGf1u9wGfq8cqz1FUCxyQi5VgjT.jpg</fanart>
+<info>A guerra pelo reino chega ao ponto culminante, continuando a história que começou nos anos 80. A terrível batalha entre He-Man e Esqueleto deixou Eternia dividida, e os Guardiões de Grayskull se separaram. Agora, muitas décadas depois, Teela precisa reunir esse grupo de heróis e decifrar o misterioso sumiço da Espada do Poder, em uma corrida contra o tempo para recuperar Eternia e evitar a destruição do universo.</info>
+<genre>ANIMAÇÃO</genre>
+</subitem>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<subitem>
+<title>[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]Mestres do Universo Salvando Eternia - (2021) 05 EPs[/B][/COLOR]</title>
+
+<link>NOLINK$$lsname=[COLOR orange][B] Temporada 01 - DUB[/B][/COLOR]</link>	
+
+<link>https://video.wixstatic.com/video/16f3d4_0cd205bed5ce48dc9bdbaa3f3c2e70bf/1080p/mp4/file.mp4$$lsname=[COLOR orange][B]T01E01[COLOR yellow] -> [COLOR white]Poderes de Grayskull[/B][/COLOR]</link>	
+<link>https://video.wixstatic.com/video/16f3d4_ced6aa4dd91448a7836e137af54f5c91/1080p/mp4/file.mp4$$lsname=[COLOR orange][B]T01E02[COLOR yellow] -> [COLOR white]O calice[/B][/COLOR]</link>	
+<link>https://video.wixstatic.com/video/16f3d4_f40282f4e61e40fdacb3bae5e9e1488d/1080p/mp4/file.mp4$$lsname=[COLOR orange][B]T01E03[COLOR yellow] -> [COLOR white]O homem mais perigoso de Eternia[/B][/COLOR]</link>	
+<link>https://video.wixstatic.com/video/16f3d4_57d20b45ad4b46649292ba4f814c83d4/1080p/mp4/file.mp4$$lsname=[COLOR orange][B]T01E04[COLOR yellow] -> [COLOR white]Terra dos mortos[/B][/COLOR]</link>
+<link>https://video.wixstatic.com/video/16f3d4_798c901b50774257944dae166333659a/1080p/mp4/file.mp4$$lsname=[COLOR orange][B]T01E04[COLOR yellow] -> [COLOR white]Saudade de casa[/B][/COLOR]</link>
+
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/2atC8jd6uINWIQedu7Pk25OV6aF.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/sGf1u9wGfq8cqz1FUCxyQi5VgjT.jpg</fanart>
+<info>A guerra pelo reino chega ao ponto culminante, continuando a história que começou nos anos 80. A terrível batalha entre He-Man e Esqueleto deixou Eternia dividida, e os Guardiões de Grayskull se separaram. Agora, muitas décadas depois, Teela precisa reunir esse grupo de heróis e decifrar o misterioso sumiço da Espada do Poder, em uma corrida contra o tempo para recuperar Eternia e evitar a destruição do universo.</info>
+<genre>ANIMAÇÃO</genre>
+</subitem>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<subitem>
+<title>[COLOR orange][B]SERVER 2[COLOR yellow] -> [COLOR white]Mestres do Universo Salvando Eternia - (2021) 05 EPs[/B][/COLOR]</title>
+
+<link>NOLINK$$lsname=[COLOR orange][B] Temporada 01 - DUB[/B][/COLOR]</link>	
+
+<link>http://b5.vc:80/series/gislene/102030/113301.mp4$$lsname=[COLOR orange][B]T01E01[COLOR yellow] -> [COLOR white]Poderes de Grayskull[/B][/COLOR]</link>	
+<link>http://b5.vc:80/series/gislene/102030/113302.mp4$$lsname=[COLOR orange][B]T01E02[COLOR yellow] -> [COLOR white]O calice[/B][/COLOR]</link>	
+<link>http://b5.vc:80/series/gislene/102030/113303.mp4$$lsname=[COLOR orange][B]T01E03[COLOR yellow] -> [COLOR white]O homem mais perigoso de Eternia[/B][/COLOR]</link>	
+<link>http://b5.vc:80/series/gislene/102030/113304.mp4$$lsname=[COLOR orange][B]T01E04[COLOR yellow] -> [COLOR white]Terra dos mortos[/B][/COLOR]</link>
+<link>http://b5.vc:80/series/gislene/102030/113305.mp4$$lsname=[COLOR orange][B]T01E04[COLOR yellow] -> [COLOR white]Saudade de casa[/B][/COLOR]</link>
+
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/2atC8jd6uINWIQedu7Pk25OV6aF.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/sGf1u9wGfq8cqz1FUCxyQi5VgjT.jpg</fanart>
+<info>A guerra pelo reino chega ao ponto culminante, continuando a história que começou nos anos 80. A terrível batalha entre He-Man e Esqueleto deixou Eternia dividida, e os Guardiões de Grayskull se separaram. Agora, muitas décadas depois, Teela precisa reunir esse grupo de heróis e decifrar o misterioso sumiço da Espada do Poder, em uma corrida contra o tempo para recuperar Eternia e evitar a destruição do universo.</info>
+<genre>ANIMAÇÃO</genre>
+</subitem>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+</subitems>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<subchannel>
+<name>[COLOR white][B]Loki (2021) 06 EPs[/B][/COLOR]</name>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/ukR0MkCQE6IylzBPd61txJi1L3E.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/rSumVltOLWsmsK5wqWIDZEFGL2H.jpg</fanart>
+<info>Assista aqui os episódios da série Loki
+[COLOR orange][B]SUPER-HERÓIS[/B][/COLOR]
+[COLOR orange][B]ANO - 2021[/B][/COLOR]
+[COLOR orange][B]01 TEMP  - 06 EPs[/B][/COLOR]
+</info>
+
+<subitems>
+<subitem>
+<title>[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]</title>
+<link>NOLINK</link>
+<thumbnail>https://i.ibb.co/MZ5t3vS/icon.png</thumbnail>
+<fanart>https://i.ibb.co/wYtwjTg/fanart.jpg</fanart>
+<info>FAÇA SUA ESCOLHA E DIVIRTA-SE</info>
+</subitem>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<subitem>
+<title>[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white]Loki[/B][/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=Q_zkE7gzBN4</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/ukR0MkCQE6IylzBPd61txJi1L3E.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/rSumVltOLWsmsK5wqWIDZEFGL2H.jpg</fanart>
+<info>Assista ao trailer</info>
+<genre>SUPER-HERÓIS</genre> 
+</subitem>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<subitem>
+<title>[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white][B]Loki (2021) 06 EPs[/B][/COLOR]</title>
+
+<link>plugin://plugin.video.youtube/play/?video_id=Q_zkE7gzBN4$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]Loki[/B][/COLOR]</link>
+
+<link>NOLINK$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR orange] Temporada 01 - DUB[/B][/COLOR]</link>	
+
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:j4pdaflnwsn5qyw4crapwakj6edfa33s$$lsname=[COLOR orange][B]HD[COLOR yellow] -> [COLOR white]Loki- DUAL[/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c5jla5kyorxexvzu6fcdftlrn4gm5pjm$$lsname=[COLOR orange][B]FHD[COLOR yellow] -> [COLOR white]Loki- DUAL[/B][/COLOR]</link>
+
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/ukR0MkCQE6IylzBPd61txJi1L3E.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/rSumVltOLWsmsK5wqWIDZEFGL2H.jpg</fanart>
+<info>Começando imediatamente depois que Loki rouba o Tesseract (de novo), ele se encontra diante da Autoridade de Variação Temporal, uma organização burocrática que existe fora do tempo e espaço. Forçado a responder por seus crimes contra a linha do tempo, ele recebe uma escolha: Ser deletado da realidade ou ajudar a capturar uma ameaça ainda maior.</info>
+<genre>FICÇÃO E FANTASIA</genre>  
+</subitem>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+subitem>
+<title>[COLOR orange][B]G DRIVE[COLOR yellow] -> [COLOR white]NomedaSérie - (DATA)[/B][/COLOR]</title>
+
+<link>NOLINK$$lsname=[COLOR orange][B] Temporada 01 - DUB[/B][/COLOR]</link>	
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=<LINKGDRIVE>$$lsname=[COLOR orange][B]T01E01[COLOR yellow] -> [COLOR white]Nomedoepisodio[/B][/COLOR]</link>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/ukR0MkCQE6IylzBPd61txJi1L3E.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/rSumVltOLWsmsK5wqWIDZEFGL2H.jpg</fanart>
+<info>Começando imediatamente depois que Loki rouba o Tesseract (de novo), ele se encontra diante da Autoridade de Variação Temporal, uma organização burocrática que existe fora do tempo e espaço. Forçado a responder por seus crimes contra a linha do tempo, ele recebe uma escolha: Ser deletado da realidade ou ajudar a capturar uma ameaça ainda maior.</info>
+<genre>FICÇÃO E FANTASIA</genre>  
+</subitem>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<subitem>
+<title>[COLOR orange][B]SERVER 2[COLOR yellow] -> [COLOR white][B]Loki (2021) 06 EPs[/B][/COLOR]</title>
+
+<link>plugin://plugin.video.youtube/play/?video_id=Q_zkE7gzBN4$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]Loki[/B][/COLOR]</link>
+
+<link>NOLINK$$lsname=[COLOR orange][B]SERVER 2[COLOR yellow] -> [COLOR orange] Temporada 01 - DUB[/B][/COLOR]</link>	
+
+<link>http://b5.vc:80/series/gislene/102030/109227.mp4$$lsname=[COLOR orange][B]T01E01[COLOR yellow] -> [COLOR white]Proposito Glorioso [/B][/COLOR]</link>
+<link>http://b5.vc:80/series/gislene/102030/111241.mp4$$lsname=[COLOR orange][B]T01E02[COLOR yellow] -> [COLOR white]A Variante [/B][/COLOR]</link>
+<link>http://b5.vc:80/series/gislene/102030/111603.mp4$$lsname=[COLOR orange][B]T01E03[COLOR yellow] -> [COLOR white]Lamentis [/B][/COLOR]</link>
+<link>http://b5.vc:80/series/gislene/102030/112437.mp4$$lsname=[COLOR orange][B]T01E04[COLOR yellow] -> [COLOR white]O Evento Nexus [/B][/COLOR]</link>
+<link>http://b5.vc:80/series/gislene/102030/112851.mp4$$lsname=[COLOR orange][B]T01E05[COLOR yellow] -> [COLOR white]Jornada ao Misterio [/B][/COLOR]</link>
+<link>http://b5.vc:80/series/gislene/102030/112909.mp4$$lsname=[COLOR orange][B]T01E06[COLOR yellow] -> [COLOR white]Para Sempre,Sempre [/B][/COLOR]</link>
+
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/ukR0MkCQE6IylzBPd61txJi1L3E.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/rSumVltOLWsmsK5wqWIDZEFGL2H.jpg</fanart>
+<info>Começando imediatamente depois que Loki rouba o Tesseract (de novo), ele se encontra diante da Autoridade de Variação Temporal, uma organização burocrática que existe fora do tempo e espaço. Forçado a responder por seus crimes contra a linha do tempo, ele recebe uma escolha: Ser deletado da realidade ou ajudar a capturar uma ameaça ainda maior.</info>
+<genre>FICÇÃO E FANTASIA</genre>  
+</subitem>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<subitem>
+<title>[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]Loki (2021) 06 EPs[/B][/COLOR]</title>
+
+<link>NOLINK$$lsname=[COLOR orange][B] Temporada 01 - DUB[/B][/COLOR]</link>	
+
+<link>https://video.wixstatic.com/video/16f3d4_a2074707c8f24c92a9d18805440c3a3f/1080p/mp4/file.mp4$$lsname=[COLOR orange][B]T01E01[COLOR yellow] -> [COLOR white]Proposito Glorioso [/B][/COLOR]</link>
+<link>https://video.wixstatic.com/video/16f3d4_e4d55dc83b754c5fbb57c1eda83adb73/1080p/mp4/file.mp4$$lsname=[COLOR orange][B]T01E02[COLOR yellow] -> [COLOR white]A Variante [/B][/COLOR]</link>
+<link>https://video.wixstatic.com/video/16f3d4_f79e7b494c2f4f34a93856af3edde6b5/1080p/mp4/file.mp4$$lsname=[COLOR orange][B]T01E03[COLOR yellow] -> [COLOR white]Lamentis [/B][/COLOR]</link>
+<link>https://video.wixstatic.com/video/16f3d4_cbf04a005ec6488b8d53eb641face143/1080p/mp4/file.mp4$$lsname=[COLOR orange][B]T01E04[COLOR yellow] -> [COLOR white]O Evento Nexus [/B][/COLOR]</link>
+<link>https://video.wixstatic.com/video/16f3d4_c949d1b67dcd4ef2bada0c615833b83f/1080p/mp4/file.mp4$$lsname=[COLOR orange][B]T01E05[COLOR yellow] -> [COLOR white]Jornada ao Misterio [/B][/COLOR]</link>
+<link>https://video.wixstatic.com/video/16f3d4_007dec14858d44428f411170184616d8/1080p/mp4/file.mp4$$lsname=[COLOR orange][B]T01E06[COLOR yellow] -> [COLOR white]Para Sempre,Sempre [/B][/COLOR]</link>
+
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/ukR0MkCQE6IylzBPd61txJi1L3E.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/rSumVltOLWsmsK5wqWIDZEFGL2H.jpg</fanart>
+<info>Começando imediatamente depois que Loki rouba o Tesseract (de novo), ele se encontra diante da Autoridade de Variação Temporal, uma organização burocrática que existe fora do tempo e espaço. Forçado a responder por seus crimes contra a linha do tempo, ele recebe uma escolha: Ser deletado da realidade ou ajudar a capturar uma ameaça ainda maior.</info>
+<genre>FICÇÃO E FANTASIA</genre>  
+</subitem>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+</subitems>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<subchannel>
+<name>[COLOR white][B]Sweet Tooth (2021) 08 EPs[/B][/COLOR]</name>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/rgMfhcrVZjuy5b7Pn0KzCRCEnMX.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/y0zAjgCghA8XXMk5O7rIJMybXBt.jpg</fanart>
+<info>Assista aqui os episódios da série NomedaSérie
+[COLOR orange][B]FICÇÃO E FANTASIA[/B][/COLOR]
+[COLOR orange][B]ANOS - 2021[/B][/COLOR]
+[COLOR orange][B]01 TEMP  - 08 EPs[/B][/COLOR]
+</info>
+
+<subitems>
+<subitem>
+<title>[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]</title>
+<link>NOLINK</link>
+<thumbnail>https://i.ibb.co/MZ5t3vS/icon.png</thumbnail>
+<fanart>https://i.ibb.co/wYtwjTg/fanart.jpg</fanart>
+<info>FAÇA SUA ESCOLHA E DIVIRTA-SE</info>
+</subitem>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<subitem>
+<title>[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white]Sweet Tooth[/B][/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=0mz_ImwSOpM</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/rgMfhcrVZjuy5b7Pn0KzCRCEnMX.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/y0zAjgCghA8XXMk5O7rIJMybXBt.jpg</fanart>
+<info>Assista ao trailer</info>
+<genre>FICÇÃO E FANTASIA</genre> 
+</subitem>
+
+<subitem>
+<title>[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Sweet Tooth (2021) 08 EPs[/B][/COLOR]</title>
+<link>NOLINK$$lsname=[COLOR orange][B] Temporada 01 - DUB[/B][/COLOR]</link>	
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1c210beba15bf0ed3ad20b5ae340eac7b5d65201$$lsname=[COLOR orange][B]FHD[COLOR yellow] -> [COLOR white]Temporada Completa[/B][/COLOR]</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/rgMfhcrVZjuy5b7Pn0KzCRCEnMX.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/y0zAjgCghA8XXMk5O7rIJMybXBt.jpg</fanart>
+<info>Há dez anos, "O Grande Esfacelamento" causou estragos no mundo e levou ao misterioso surgimento de híbridos: bebês nascidos parte humanos, parte animais. Sem saber se os híbridos são a causa ou o resultado do vírus, muitos humanos os temem e caçam. Após uma década vivendo com segurança em sua casa isolada na floresta, Gus (Christian Convery), um menino-cervo acolhido, inesperadamente faz amizade com um viajante solitário chamado Jepperd (Nonso Anozie). Juntos, eles partem em uma aventura extraordinária pelas ruínas da América em busca de respostas sobre as origens de Gus, o passado de Jepperd e o verdadeiro significado de um lar. </info>
+<genre>FICÇÃO E FANTASIA</genre> 
+</subitem>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+subitem>
+<title>[COLOR orange][B]G DRIVE[COLOR yellow] -> [COLOR white]Sweet Tooth (2021) 08 EPs[/B][/COLOR]</title>
+
+<link>NOLINK$$lsname=[COLOR orange][B] Temporada 01 - DUB[/B][/COLOR]</link>	
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+<link><LINKUNIVVERSAL>$$lsname=[COLOR orange][B]T01E01[COLOR yellow] -> [COLOR white]NomedoEpisodio[/B][/COLOR]</link>	
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/rgMfhcrVZjuy5b7Pn0KzCRCEnMX.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/y0zAjgCghA8XXMk5O7rIJMybXBt.jpg</fanart>
+<info>Há dez anos, "O Grande Esfacelamento" causou estragos no mundo e levou ao misterioso surgimento de híbridos: bebês nascidos parte humanos, parte animais. Sem saber se os híbridos são a causa ou o resultado do vírus, muitos humanos os temem e caçam. Após uma década vivendo com segurança em sua casa isolada na floresta, Gus (Christian Convery), um menino-cervo acolhido, inesperadamente faz amizade com um viajante solitário chamado Jepperd (Nonso Anozie). Juntos, eles partem em uma aventura extraordinária pelas ruínas da América em busca de respostas sobre as origens de Gus, o passado de Jepperd e o verdadeiro significado de um lar. </info>
+<genre>FICÇÃO E FANTASIA</genre> 
+</subitem>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<subitem>
+<title>[COLOR orange][B]SERVER 1[COLOR yellow] -> [COLOR white]Sweet Tooth (2021) 08 EPs[/B][/COLOR]</title>
+
+<link>NOLINK$$lsname=[COLOR orange][B] Temporada 01 - DUB[/B][/COLOR]</link>	
+
+<link>http://sv1.nowiptv.net:8880/series/ACML2/67293456jg/95674.mp4$$lsname=[COLOR orange][B]T01E01[COLOR yellow] -> [COLOR white]Saindo Da Mata [/B][/COLOR]</link>
+<link>http://sv1.nowiptv.net:8880/series/ACML2/67293456jg/95675.mp4$$lsname=[COLOR orange][B]T01E02[COLOR yellow] -> [COLOR white]Foi Mal Por Todos Os Mortos [/B][/COLOR]</link>
+<link>http://sv1.nowiptv.net:8880/series/ACML2/67293456jg/95676.mp4$$lsname=[COLOR orange][B]T01E03[COLOR yellow] -> [COLOR white]Esquisitice De Cervo [/B][/COLOR]</link>
+<link>http://sv1.nowiptv.net:8880/series/ACML2/67293456jg/95677.mp4$$lsname=[COLOR orange][B]T01E04[COLOR yellow] -> [COLOR white]O Molho Secreto [/B][/COLOR]</link>
+<link>http://sv1.nowiptv.net:8880/series/ACML2/67293456jg/95678.mp4$$lsname=[COLOR orange][B]T01E05[COLOR yellow] -> [COLOR white]O Que Tem No Freezer? [/B][/COLOR]</link>
+<link>http://sv1.nowiptv.net:8880/series/ACML2/67293456jg/95679.mp4$$lsname=[COLOR orange][B]T01E06[COLOR yellow] -> [COLOR white]Algo Estranho No Trem [/B][/COLOR]</link>
+<link>http://sv1.nowiptv.net:8880/series/ACML2/67293456jg/95680.mp4$$lsname=[COLOR orange][B]T01E07[COLOR yellow] -> [COLOR white]Quando Eles Se Conheceram [/B][/COLOR]</link>
+<link>http://sv1.nowiptv.net:8880/series/ACML2/67293456jg/95681.mp4$$lsname=[COLOR orange][B]T01E08[COLOR yellow] -> [COLOR white]Grandao [/B][/COLOR]</link>
+	
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/rgMfhcrVZjuy5b7Pn0KzCRCEnMX.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/y0zAjgCghA8XXMk5O7rIJMybXBt.jpg</fanart>
+<info>Há dez anos, "O Grande Esfacelamento" causou estragos no mundo e levou ao misterioso surgimento de híbridos: bebês nascidos parte humanos, parte animais. Sem saber se os híbridos são a causa ou o resultado do vírus, muitos humanos os temem e caçam. Após uma década vivendo com segurança em sua casa isolada na floresta, Gus (Christian Convery), um menino-cervo acolhido, inesperadamente faz amizade com um viajante solitário chamado Jepperd (Nonso Anozie). Juntos, eles partem em uma aventura extraordinária pelas ruínas da América em busca de respostas sobre as origens de Gus, o passado de Jepperd e o verdadeiro significado de um lar. </info>
+<genre>FICÇÃO E FANTASIA</genre> 
+</subitem>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<subitem>
+<title>[COLOR orange][B]SERVER 2[COLOR yellow] -> [COLOR white]Sweet Tooth (2021) 08 EPs[/B][/COLOR]</title>
+
+<link>NOLINK$$lsname=[COLOR orange][B]SERVER 2[COLOR yellow] -> [COLOR orange] Temporada 01 - DUB[/B][/COLOR]</link>
+
+<link>http://b5.vc:80/series/gislene/102030/109195.mp4$$lsname=[COLOR orange][B]T01E01[COLOR yellow] -> [COLOR white]Saindo Da Mata [/B][/COLOR]</link>
+<link>http://b5.vc:80/series/gislene/102030/109196.mp4$$lsname=[COLOR orange][B]T01E02[COLOR yellow] -> [COLOR white]Foi Mal Por Todos Os Mortos [/B][/COLOR]</link>
+<link>http://b5.vc:80/series/gislene/102030/109197.mp4$$lsname=[COLOR orange][B]T01E03[COLOR yellow] -> [COLOR white]Esquisitice De Cervo [/B][/COLOR]</link>
+<link>http://b5.vc:80/series/gislene/102030/109198.mp4$$lsname=[COLOR orange][B]T01E04[COLOR yellow] -> [COLOR white]O Molho Secreto [/B][/COLOR]</link>
+<link>http://b5.vc:80/series/gislene/102030/109199.mp4$$lsname=[COLOR orange][B]T01E05[COLOR yellow] -> [COLOR white]O Que Tem No Freezer? [/B][/COLOR]</link>
+<link>http://b5.vc:80/series/gislene/102030/109200.mp4$$lsname=[COLOR orange][B]T01E06[COLOR yellow] -> [COLOR white]Algo Estranho No Trem [/B][/COLOR]</link>
+<link>http://b5.vc:80/series/gislene/102030/109201.mp4$$lsname=[COLOR orange][B]T01E07[COLOR yellow] -> [COLOR white]Quando Eles Se Conheceram [/B][/COLOR]</link>
+<link>http://b5.vc:80/series/gislene/102030/109202.mp4$$lsname=[COLOR orange][B]T01E08[COLOR yellow] -> [COLOR white]Grandao [/B][/COLOR]</link>
+
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/rgMfhcrVZjuy5b7Pn0KzCRCEnMX.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/y0zAjgCghA8XXMk5O7rIJMybXBt.jpg</fanart>
+<info>Há dez anos, "O Grande Esfacelamento" causou estragos no mundo e levou ao misterioso surgimento de híbridos: bebês nascidos parte humanos, parte animais. Sem saber se os híbridos são a causa ou o resultado do vírus, muitos humanos os temem e caçam. Após uma década vivendo com segurança em sua casa isolada na floresta, Gus (Christian Convery), um menino-cervo acolhido, inesperadamente faz amizade com um viajante solitário chamado Jepperd (Nonso Anozie). Juntos, eles partem em uma aventura extraordinária pelas ruínas da América em busca de respostas sobre as origens de Gus, o passado de Jepperd e o verdadeiro significado de um lar. </info>
+<genre>FICÇÃO E FANTASIA</genre> 
+</subitem>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<subitem>
+<title>[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]Sweet Tooth (2021) 08 EPs[/B][/COLOR]</title>
+
+<link>NOLINK$$lsname=[COLOR orange][B]SERVER 2[COLOR yellow] -> [COLOR orange] Temporada 01 - DUB[/B][/COLOR]</link>
+
+<link>https://video.wixstatic.com/video/16f3d4_2804c03b870641be85ec4eb8ea5e34cc/1080p/mp4/file.mp4$$lsname=[COLOR orange][B]T01E01[COLOR yellow] -> [COLOR white]Saindo Da Mata [/B][/COLOR]</link>
+<link>https://video.wixstatic.com/video/16f3d4_c35efda8c8d741058be0fe465971d75f/1080p/mp4/file.mp4$$lsname=[COLOR orange][B]T01E02[COLOR yellow] -> [COLOR white]Foi Mal Por Todos Os Mortos [/B][/COLOR]</link>
+<link>https://video.wixstatic.com/video/16f3d4_a80b078910584bd6929f3a63efb9470f/1080p/mp4/file.mp4$$lsname=[COLOR orange][B]T01E03[COLOR yellow] -> [COLOR white]Esquisitice De Cervo [/B][/COLOR]</link>
+<link>https://video.wixstatic.com/video/16f3d4_bacc0cfc8da64477a580af23eb7719c5/1080p/mp4/file.mp4$$lsname=[COLOR orange][B]T01E04[COLOR yellow] -> [COLOR white]O Molho Secreto [/B][/COLOR]</link>
+<link>http://b5.vc:80/series/gislene/102030/109199.mp4$$lsname=[COLOR orange][B]T01E05[COLOR yellow] -> [COLOR white]O Que Tem No Freezer? [/B][/COLOR]</link>
+<link>https://video.wixstatic.com/video/16f3d4_db9afad82d9c4001a3aa11548030aaf6/1080p/mp4/file.mp4$$lsname=[COLOR orange][B]T01E06[COLOR yellow] -> [COLOR white]Algo Estranho No Trem [/B][/COLOR]</link>
+<link>https://video.wixstatic.com/video/16f3d4_86122acaa3c94e81a0fcb84e43667d32/1080p/mp4/file.mp4$$lsname=[COLOR orange][B]T01E07[COLOR yellow] -> [COLOR white]Quando Eles Se Conheceram [/B][/COLOR]</link>
+<link>http://b5.vc:80/series/gislene/102030/109202.mp4$$lsname=[COLOR orange][B]T01E08[COLOR yellow] -> [COLOR white]Grandao [/B][/COLOR]</link>
+
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/rgMfhcrVZjuy5b7Pn0KzCRCEnMX.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/y0zAjgCghA8XXMk5O7rIJMybXBt.jpg</fanart>
+<info>Há dez anos, "O Grande Esfacelamento" causou estragos no mundo e levou ao misterioso surgimento de híbridos: bebês nascidos parte humanos, parte animais. Sem saber se os híbridos são a causa ou o resultado do vírus, muitos humanos os temem e caçam. Após uma década vivendo com segurança em sua casa isolada na floresta, Gus (Christian Convery), um menino-cervo acolhido, inesperadamente faz amizade com um viajante solitário chamado Jepperd (Nonso Anozie). Juntos, eles partem em uma aventura extraordinária pelas ruínas da América em busca de respostas sobre as origens de Gus, o passado de Jepperd e o verdadeiro significado de um lar. </info>
+<genre>FICÇÃO E FANTASIA</genre> 
+</subitem>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+</subitems>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<subchannel>
+<name>[COLOR white][B]Dom (2021) 08 EPs[/B][/COLOR]</name>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/tl1Gyi1Ee9HCRD7IieZScoJL9I4.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/89oMRMX6QVRjwgyJoekbORF0jxO.jpg</fanart>
+<info>Assista aqui os episódios da série Dom
+[COLOR orange][B]CRIME E DRAMA[/B][/COLOR]
+[COLOR orange][B]ANO - 2021[/B][/COLOR]
+[COLOR orange][B]01 TEMP  - 08 EPs[/B][/COLOR]
+</info>
+
+<subitems>
+<subitem>
+<title>[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]</title>
+<link>NOLINK</link>
+<thumbnail>https://i.ibb.co/MZ5t3vS/icon.png</thumbnail>
+<fanart>https://i.ibb.co/wYtwjTg/fanart.jpg</fanart>
+<info>FAÇA SUA ESCOLHA E DIVIRTA-SE</info>
+</subitem>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<subitem>
+<title>[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white]Dom[/B][/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=5PP9bZYGA0o</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/tl1Gyi1Ee9HCRD7IieZScoJL9I4.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/89oMRMX6QVRjwgyJoekbORF0jxO.jpg</fanart>
+<info>Assista ao trailer</info>
+<genre>CRIME E DRAMA</genre> 
+</subitem>
+
+<subitem>
+<title>[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Dom (2021) 08 EPs[/B][/COLOR]</title>
+
+<link>NOLINK$$lsname=[COLOR orange][B] Temporada 01 - DUB[/B][/COLOR]</link>	
+
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:886a4057a009da7509af4550b63d713349f9910e$$lsname=[COLOR orange][B]HD[COLOR yellow] -> [COLOR white]T01E01/08 - COMPLETA[/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:96f14187040308de9de6a2f59d1f0d07ee3957c3$$lsname=[COLOR orange][B]FHD[COLOR yellow] -> [COLOR white]T01E01/08 - COMPLETA[/B][/COLOR]</link>
+
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/tl1Gyi1Ee9HCRD7IieZScoJL9I4.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/89oMRMX6QVRjwgyJoekbORF0jxO.jpg</fanart>
+<info>A jornada de pai e filho que seguiram caminhos totalmente opostos, frequentemente espelhando e complementando um ao outro, enquanto ambos lidam com situações que deixam a linha entre certo e errado cada vez mais tênue.</info>
+<genre>CRIME E DRAMA</genre>
+</subitem>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+subitem>
+<title>[COLOR orange][B]G DRIVE[COLOR yellow] -> [COLOR white]Dom (2021) 08 EPs[/B][/COLOR]</title>
+
+<link>NOLINK$$lsname=[COLOR orange][B] Temporada 01 - DUB[/B][/COLOR]</link>	
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+<link><LINKUNIVVERSAL>$$lsname=[COLOR orange][B]T01E01[COLOR yellow] -> [COLOR white]NomedoEpisodio[/B][/COLOR]</link>	
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/tl1Gyi1Ee9HCRD7IieZScoJL9I4.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/89oMRMX6QVRjwgyJoekbORF0jxO.jpg</fanart>
+<info>A jornada de pai e filho que seguiram caminhos totalmente opostos, frequentemente espelhando e complementando um ao outro, enquanto ambos lidam com situações que deixam a linha entre certo e errado cada vez mais tênue.</info>
+<genre>CRIME E DRAMA</genre>
+</subitem>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<subitem>
+<title>[COLOR orange][B]SERVER 1[COLOR yellow] -> [COLOR white]Dom (2021) 08 EPs[/B][/COLOR]</title>
+
+<link>NOLINK$$lsname=[COLOR orange][B] Temporada 01 - DUB[/B][/COLOR]</link>	
+
+<link>http://sv1.nowiptv.net:8880/series/ACML2/67293456jg/95786.mp4$$lsname=[COLOR orange][B]T01E01[COLOR yellow] -> [COLOR white]Filho nao vem com manual [/B][/COLOR]</link>
+<link>http://sv1.nowiptv.net:8880/series/ACML2/67293456jg/95787.mp4$$lsname=[COLOR orange][B]T01E02[COLOR yellow] -> [COLOR white]Metamorfose [/B][/COLOR]</link>
+<link>http://sv1.nowiptv.net:8880/series/ACML2/67293456jg/95788.mp4$$lsname=[COLOR orange][B]T01E03[COLOR yellow] -> [COLOR white]Destino com D maiusculo [/B][/COLOR]</link>
+<link>http://sv1.nowiptv.net:8880/series/ACML2/67293456jg/95789.mp4$$lsname=[COLOR orange][B]T01E04[COLOR yellow] -> [COLOR white]De quem e a culpa[/B][/COLOR]</link>
+<link>http://sv1.nowiptv.net:8880/series/ACML2/67293456jg/95790.mp4$$lsname=[COLOR orange][B]T01E05[COLOR yellow] -> [COLOR white]Rebordosa[/B][/COLOR]</link>
+<link>http://sv1.nowiptv.net:8880/series/ACML2/67293456jg/95791.mp4$$lsname=[COLOR orange][B]T01E06[COLOR yellow] -> [COLOR white]Socios  [/B][/COLOR]</link>
+<link>http://sv1.nowiptv.net:8880/series/ACML2/67293456jg/95792.mp4$$lsname=[COLOR orange][B]T01E07[COLOR yellow] -> [COLOR white]Aprisionado [/B][/COLOR]</link>
+<link>http://sv1.nowiptv.net:8880/series/ACML2/67293456jg/95793.mp4$$lsname=[COLOR orange][B]T01E08[COLOR yellow] -> [COLOR white]Dando um tempo [/B][/COLOR]</link>
+
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/tl1Gyi1Ee9HCRD7IieZScoJL9I4.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/89oMRMX6QVRjwgyJoekbORF0jxO.jpg</fanart>
+<info>A jornada de pai e filho que seguiram caminhos totalmente opostos, frequentemente espelhando e complementando um ao outro, enquanto ambos lidam com situações que deixam a linha entre certo e errado cada vez mais tênue.</info>
+<genre>CRIME E DRAMA</genre>
+</subitem>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<subitem>
+<title>[COLOR orange][B]SERVER 2[COLOR yellow] -> [COLOR white]Dom (2021) 08 EPs[/B][/COLOR]</title>
+
+<link>NOLINK$$lsname=[COLOR orange][B] Temporada 01 - DUB[/B][/COLOR]</link>	
+
+<link>http://b5.vc:80/series/gislene/102030/109182.mp4$$lsname=[COLOR orange][B]T01E01[COLOR yellow] -> [COLOR white]Filho nao vem com manual [/B][/COLOR]</link>
+<link>http://b5.vc:80/series/gislene/102030/109183.mp4$$lsname=[COLOR orange][B]T01E02[COLOR yellow] -> [COLOR white]Metamorfose [/B][/COLOR]</link>
+<link>http://b5.vc:80/series/gislene/102030/109184.mp4$$lsname=[COLOR orange][B]T01E03[COLOR yellow] -> [COLOR white]Destino com D maiusculo [/B][/COLOR]</link>
+<link>http://b5.vc:80/series/gislene/102030/109185.mp4$$lsname=[COLOR orange][B]T01E04[COLOR yellow] -> [COLOR white]De quem e a culpa[/B][/COLOR]</link>
+<link>http://b5.vc:80/series/gislene/102030/109186.mp4$$lsname=[COLOR orange][B]T01E05[COLOR yellow] -> [COLOR white]Rebordosa[/B][/COLOR]</link>
+<link>http://b5.vc:80/series/gislene/102030/109187.mp4$$lsname=[COLOR orange][B]T01E06[COLOR yellow] -> [COLOR white]Socios  [/B][/COLOR]</link>
+<link>http://b5.vc:80/series/gislene/102030/109188.mp4$$lsname=[COLOR orange][B]T01E07[COLOR yellow] -> [COLOR white]Aprisionado [/B][/COLOR]</link>
+<link>http://b5.vc:80/series/gislene/102030/109189.mp4$$lsname=[COLOR orange][B]T01E08[COLOR yellow] -> [COLOR white]Dando um tempo [/B][/COLOR]</link>
+
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/tl1Gyi1Ee9HCRD7IieZScoJL9I4.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/89oMRMX6QVRjwgyJoekbORF0jxO.jpg</fanart>
+<info>A jornada de pai e filho que seguiram caminhos totalmente opostos, frequentemente espelhando e complementando um ao outro, enquanto ambos lidam com situações que deixam a linha entre certo e errado cada vez mais tênue.</info>
+<genre>CRIME E DRAMA</genre>
+</subitem>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+</subitems>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+COLAR AQUI UMA NOVA SÉRIE MANTER TAG DE FECHAMENTO
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+SEGUNDA SEÇÃO DE SÉRIES - INCOMPLETAS
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channel>
+<name>[COLOR white][B]SÉRIES EM LANÇAMENTO (INCOMPLETAS)[/B][/COLOR]</name>
+<thumbnail><https://i.ibb.co/gwDwqtp/lancamentos.png></thumbnail>
+<fanart><FUNDODOGENERO></fanart>
+<info>[B]Assista aqui as melhores séries EM LANÇAMENTO[/B]</info>
+
+<subchannel>
+<name>[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]</name>
+<thumbnail>https://i.ibb.co/MZ5t3vS/icon.png</thumbnail>
+<fanart>https://i.ibb.co/wYtwjTg/fanart.jpg</fanart>
+<info>[B]FAÇA SUA ESCOLHA E DIVIRTA-SE[/B]</info>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<subchannel>
+<name>[COLOR white][B]The Walking Dead (2021) 01 EPs[/B][/COLOR]</name>
+<thumbnail>https://www.themoviedb.org/t/p/original/lY8APyHgMDAM4y0C65sm5WOASmC.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/wvdWb5kTQipdMDqCclC6Y3zr4j3.jpg</fanart>
+<info>Assista aqui os episódios da série  The Walking Dead T11
+[COLOR orange][B]TERROR E SUSPENSE[/B][/COLOR]
+[COLOR orange][B]ANO - 2021[/B][/COLOR]
+[COLOR orange][B]11 TEMP  - 01 EPs[/B][/COLOR]
+</info>
+
+<subitems>
+<subitem>
+<title>[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]</title>
+<link>NOLINK</link>
+<thumbnail>https://i.ibb.co/MZ5t3vS/icon.png</thumbnail>
+<fanart>https://i.ibb.co/wYtwjTg/fanart.jpg</fanart>
+<info>FAÇA SUA ESCOLHA E DIVIRTA-SE</info>
+</subitem>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<subitem>
+<title>[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white]The Walking Dead[/B][/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=7Kcvn8VmbNE</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/rqeYMLryjcawh2JeRpCVUDXYM5b.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/uro2Khv7JxlzXtLb8tCIbRhkb9E.jpg</fanart>
+<info>Assista ao trailer</info>
+<genre>TERROR E SUSPENSE</genre> 
+</subitem>
+
+<subitem>
+<title>[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]The Walking Dead (2021)[/B][/COLOR]</title>
+
+<link>NOLINK$$lsname=[COLOR orange][B] Temporada 01 - DUB[/B][/COLOR]</link>	
+
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2684570c72cd404e55607415467bc8207237fc0a$$lsname=[COLOR orange][B]T11E01[COLOR yellow] -> [COLOR white]Acheron - HD - LEG[/B][/COLOR]</link>
+
+link>plugin://plugin.video.elementum/play?uri=<LINKMAGNETREDUZIDO>$$lsname=[COLOR orange][B]T11E02[COLOR yellow] -> [COLOR white]Acheron - HD - LEG[/B][/COLOR]</link>
+
+<thumbnail>https://www.themoviedb.org/t/p/original/rqeYMLryjcawh2JeRpCVUDXYM5b.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/uro2Khv7JxlzXtLb8tCIbRhkb9E.jpg</fanart>
+<info>Nos Estados Unidos pós-apocalíptico, um pequeno grupo de sobreviventes segue viajando à procura de uma nova casa longe dos mortos-vivos. O desespero por segurança e suprimentos os coloca constantemente à beira da sanidade.</info>
+<genre>TERROR E SUSPENSE</genre>
+</subitem>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+subitem>
+<title>[COLOR orange][B]G DRIVE[COLOR yellow] -> [COLOR white]The Walking Dead (2021)[/B][/COLOR]</title>
+
+<link>NOLINK$$lsname=[COLOR orange][B] Temporada 01 - DUB[/B][/COLOR]</link>	
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=<LINKGDRIVE>$$lsname=[COLOR orange][B]G DRIVE[COLOR yellow] -> [COLOR white]NomedoFilme - DUB[/B][/COLOR]</link>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<thumbnail>https://www.themoviedb.org/t/p/original/rqeYMLryjcawh2JeRpCVUDXYM5b.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/uro2Khv7JxlzXtLb8tCIbRhkb9E.jpg</fanart>
+<info>Nos Estados Unidos pós-apocalíptico, um pequeno grupo de sobreviventes segue viajando à procura de uma nova casa longe dos mortos-vivos. O desespero por segurança e suprimentos os coloca constantemente à beira da sanidade.</info>
+<genre>TERROR E SUSPENSE</genre>
+</subitem>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<subitem>
+<title>[COLOR orange][B]SERVER 1[COLOR yellow] -> [COLOR white]The Walking Dead (2021)[/B][/COLOR]</title>
+
+<link>NOLINK$$lsname=[COLOR orange][B] Temporada 01 - DUB[/B][/COLOR]</link>	
+
+<link>http://sv1.nowiptv.net:8880/series/ACML2/67293456jg/99675.mp4$$lsname=[COLOR orange][B]T01E01[COLOR yellow] -> [COLOR white]Acheron - LEG-FIX[/B][/COLOR]</link>	
+
+<thumbnail>https://www.themoviedb.org/t/p/original/rqeYMLryjcawh2JeRpCVUDXYM5b.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/uro2Khv7JxlzXtLb8tCIbRhkb9E.jpg</fanart>
+<info>Nos Estados Unidos pós-apocalíptico, um pequeno grupo de sobreviventes segue viajando à procura de uma nova casa longe dos mortos-vivos. O desespero por segurança e suprimentos os coloca constantemente à beira da sanidade.</info>
+<genre>TERROR E SUSPENSE</genre>
+</subitem>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+subitem>
+<title>[COLOR orange][B]SERVER 2[COLOR yellow] -> [COLOR white]The Walking Dead (2021)[/B][/COLOR]</title>
+
+<link>NOLINK$$lsname=[COLOR orange][B] Temporada 01 - DUB[/B][/COLOR]</link>	
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+<link><LINKUNIVVERSAL>$$lsname=[COLOR orange][B]T01E01[COLOR yellow] -> [COLOR white]NomedoEpisodio[/B][/COLOR]</link>	
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<thumbnail>https://www.themoviedb.org/t/p/original/rqeYMLryjcawh2JeRpCVUDXYM5b.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/uro2Khv7JxlzXtLb8tCIbRhkb9E.jpg</fanart>
+<info>Nos Estados Unidos pós-apocalíptico, um pequeno grupo de sobreviventes segue viajando à procura de uma nova casa longe dos mortos-vivos. O desespero por segurança e suprimentos os coloca constantemente à beira da sanidade.</info>
+<genre>TERROR E SUSPENSE</genre>
+</subitem>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+</subitems>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<subchannel>
+<name>[COLOR white][B]Monstros no Trabalho (2021) 08 EPs[/B][/COLOR]</name>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/5Bwp5tYrjEcztTNvCqcRibLOeP8.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/8li3iky213amG0eI1wYpfkUp3HO.jpg</fanart>
+<info>Assista aqui os episódios da série Monstros no Trabalho
+[COLOR orange][B]ANIMAÇÃO[/B][/COLOR]
+[COLOR orange][B]ANOS - 2021[/B][/COLOR]
+[COLOR orange][B]01 TEMP  - 08 EPs[/B][/COLOR]
+</info>
+
+<subitems>
+<subitem>
+<title>[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]</title>
+<link>NOLINK</link>
+<thumbnail>https://i.ibb.co/MZ5t3vS/icon.png</thumbnail>
+<fanart>https://i.ibb.co/wYtwjTg/fanart.jpg</fanart>
+<info>FAÇA SUA ESCOLHA E DIVIRTA-SE</info>
+</subitem>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<subitem>
+<title>[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white]Monstros no Trabalho[/B][/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=sw5zp8817i4</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/5Bwp5tYrjEcztTNvCqcRibLOeP8.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/8li3iky213amG0eI1wYpfkUp3HO.jpg</fanart>
+<info>Assista ao trailer</info>
+<genre>ANIMAÇÃO</genre> 
+</subitem>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<subitem>
+<title>[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Monstros no Trabalho (2021) - 8 EPs[/B][/COLOR]</title>
+<link>NOLINK$$lsname=[COLOR orange][B] Temporada 01 - DUB[/B][/COLOR]</link>	
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3094b2dacdfbd770813c2c1512dc9454b1524b65$$lsname=[COLOR orange][B]T01E01e02[COLOR yellow] -> [COLOR white]Bem-Vindo Ao Monstros, Incorporated/Conhesa Mift - FHD DUAL[/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:720493f8acf141e41e2eae3ba61697e38ca90f07$$lsname=[COLOR orange][B]T01E03[COLOR yellow] -> [COLOR white]A Sala Danificada - FHD DUAL[/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c3bb7f6c6310efd3ff223fccbaab1ea8696cf7e7$$lsname=[COLOR orange][B]T01E04[COLOR yellow] -> [COLOR white]Os Grandes Wazowski - FHD DUAL[/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b88e76a7d9f06a69a84325ed6d89d35787c13cc6$$lsname=[COLOR orange][B]T01E05[COLOR yellow] -> [COLOR white]O Encobrimento - FHD DUAL[/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3a56122938ad861e1e3b50d536f025d7b392987f$$lsname=[COLOR orange][B]T01E06[COLOR yellow] -> [COLOR white]A Maquina De Venda Automatica - FHD DUAL[/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:03dd0ef3419cc8548704050bfced61eac474bf46$$lsname=[COLOR orange][B]T01E07[COLOR yellow] -> [COLOR white]Retornos Adoraveis - FHD DUAL[/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:30f2bb009babe126a89e096a0a00308dacab3239$$lsname=[COLOR orange][B]T01E08[COLOR yellow] -> [COLOR white]Pequenos Monstros - FHD DUAL[/B][/COLOR]</link>
+
+link>plugin://plugin.video.elementum/play?uri=<LINKMAGNETREDUZIDO>$$lsname=[COLOR orange][B]T01E09[COLOR yellow] -> [COLOR white]Dia De Cabelo Ruim - FHD DUAL[/B][/COLOR]</link>
+
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/5Bwp5tYrjEcztTNvCqcRibLOeP8.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/8li3iky213amG0eI1wYpfkUp3HO.jpg</fanart>
+<info>Tylor Tuskmon é o primeiro da turma na Universidade Monstros e chega à Monstros S.A. para começar seu trabalho dos sonhos como um Assustador... ou não. No dia em que ele está pronto para começar, ele descobre que não querem Assustadores... querem Cômicos! Tylor é temporariamente transferido para a equipe de instaladores da Monstros S.A. Essa mudança destrói o plano de Tylor, mas ele tem um novo objetivo: se tornar um Cômico.</info>
+<genre>ANIMAÇÃO</genre>
+</subitem>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+subitem>
+<title>[COLOR orange][B]G DRIVE[COLOR yellow] -> [COLOR white]NomedaSérie - (DATA)[/B][/COLOR]</title>
+
+<link>NOLINK$$lsname=[COLOR orange][B] Temporada 01 - DUB[/B][/COLOR]</link>	
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+<link><LINKUNIVVERSAL>$$lsname=[COLOR orange][B]T01E01[COLOR yellow] -> [COLOR white]NomedoEpisodio[/B][/COLOR]</link>	
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<thumbnail>ICONEDASÉRIE</thumbnail>
+<fanart><FUNDODASÉRIE></fanart>
+<info><SINOPSEDASÉRIE></info>
+<genre>NOMEDAFRANQUIA</genre>
+</subitem>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<subitem>
+<title>[COLOR orange][B]SERVER 1[COLOR yellow] -> [COLOR white]Monstros no Trabalho (2021) - 7 EPs[/B][/COLOR]</title>
+
+<link>NOLINK$$lsname=[COLOR orange][B] Temporada 01 - DUB[/B][/COLOR]</link>	
+<link>http://sv1.nowiptv.net:8880/series/ACML2/67293456jg/97493.mp4$$lsname=[COLOR orange][B]T01E01[COLOR yellow] -> [COLOR white]Bem-Vindo Ao Monstros, Incorporated [/B][/COLOR]</link>
+<link>http://sv1.nowiptv.net:8880/series/ACML2/67293456jg/97494.mp4$$lsname=[COLOR orange][B]T01E02[COLOR yellow] -> [COLOR white]Conhesa Mift [/B][/COLOR]</link>
+<link>http://sv1.nowiptv.net:8880/series/ACML2/67293456jg/97495.mp4$$lsname=[COLOR orange][B]T01E03[COLOR yellow] -> [COLOR white]A Sala Danificada [/B][/COLOR]</link>
+<link>http://sv1.nowiptv.net:8880/series/ACML2/67293456jg/98139.mp4$$lsname=[COLOR orange][B]T01E04[COLOR yellow] -> [COLOR white]Os Grandes Wazowski [/B][/COLOR]</link>
+<link>http://sv1.nowiptv.net:8880/series/ACML2/67293456jg/98524.mp4$$lsname=[COLOR orange][B]T01E05[COLOR yellow] -> [COLOR white]O Encobrimento [/B][/COLOR]</link>
+<link>http://sv1.nowiptv.net:8880/series/ACML2/67293456jg/98728.mp4$$lsname=[COLOR orange][B]T01E06[COLOR yellow] -> [COLOR white]A Maquina De Venda Automatica [/B][/COLOR]</link>
+<link>http://sv1.nowiptv.net:8880/series/ACML2/67293456jg/99356.mp4$$lsname=[COLOR orange][B]T01E07[COLOR yellow] -> [COLOR white]Retornos Adoraveis [/B][/COLOR]</link>
+link><LINKUNIVVERSAL>$$lsname=[COLOR orange][B]T01E08[COLOR yellow] -> [COLOR white]Pequenos Monstros [/B][/COLOR]</link>
+link><LINKUNIVVERSAL>$$lsname=[COLOR orange][B]T01E09[COLOR yellow] -> [COLOR white]Dia De Cabelo Ruim [/B][/COLOR]</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/5Bwp5tYrjEcztTNvCqcRibLOeP8.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/8li3iky213amG0eI1wYpfkUp3HO.jpg</fanart>
+<info>Tylor Tuskmon é o primeiro da turma na Universidade Monstros e chega à Monstros S.A. para começar seu trabalho dos sonhos como um Assustador... ou não. No dia em que ele está pronto para começar, ele descobre que não querem Assustadores... querem Cômicos! Tylor é temporariamente transferido para a equipe de instaladores da Monstros S.A. Essa mudança destrói o plano de Tylor, mas ele tem um novo objetivo: se tornar um Cômico.</info>
+<genre>ANIMAÇÃO</genre>
+</subitem>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<subitem>
+<title>[COLOR orange][B]SERVER 2[COLOR yellow] -> [COLOR white]Monstros no Trabalho (2021) - 8 EPs[/B][/COLOR]</title>
+<link>NOLINK$$lsname=[COLOR orange][B] Temporada 01 - DUB[/B][/COLOR]</link>	
+<link>http://b5.vc:80/series/gislene/102030/113988.mp4$$lsname=[COLOR orange][B]T01E01[COLOR yellow] -> [COLOR white]Bem-Vindo Ao Monstros, Incorporated [/B][/COLOR]</link>
+<link>http://b5.vc:80/series/gislene/102030/113989.mp4$$lsname=[COLOR orange][B]T01E02[COLOR yellow] -> [COLOR white]Conhesa Mift [/B][/COLOR]</link>
+<link>http://b5.vc:80/series/gislene/102030/113990.mp4$$lsname=[COLOR orange][B]T01E03[COLOR yellow] -> [COLOR white]A Sala Danificada [/B][/COLOR]</link>
+<link>http://b5.vc:80/series/gislene/102030/113991.mp4$$lsname=[COLOR orange][B]T01E04[COLOR yellow] -> [COLOR white]Os Grandes Wazowski [/B][/COLOR]</link>
+<link>http://b5.vc:80/series/gislene/102030/116630.mp4$$lsname=[COLOR orange][B]T01E05[COLOR yellow] -> [COLOR white]O Encobrimento [/B][/COLOR]</link>
+<link>http://b5.vc:80/series/gislene/102030/118432.mp4$$lsname=[COLOR orange][B]T01E06[COLOR yellow] -> [COLOR white]A Maquina De Venda Automatica [/B][/COLOR]</link>
+<link>http://b5.vc:80/series/gislene/102030/120530.mp4$$lsname=[COLOR orange][B]T01E07[COLOR yellow] -> [COLOR white]Retornos Adoraveis [/B][/COLOR]</link>
+<link>http://b5.vc:80/series/gislene/102030/121005.mp4$$lsname=[COLOR orange][B]T01E08[COLOR yellow] -> [COLOR white]Pequenos Monstros [/B][/COLOR]</link>
+link>http://b5.vc:80/series/gislene/102030/121005.mp4$$lsname=[COLOR orange][B]T01E09[COLOR yellow] -> [COLOR white]Dia De Cabelo Ruim [/B][/COLOR]</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/5Bwp5tYrjEcztTNvCqcRibLOeP8.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/8li3iky213amG0eI1wYpfkUp3HO.jpg</fanart>
+<info>Tylor Tuskmon é o primeiro da turma na Universidade Monstros e chega à Monstros S.A. para começar seu trabalho dos sonhos como um Assustador... ou não. No dia em que ele está pronto para começar, ele descobre que não querem Assustadores... querem Cômicos! Tylor é temporariamente transferido para a equipe de instaladores da Monstros S.A. Essa mudança destrói o plano de Tylor, mas ele tem um novo objetivo: se tornar um Cômico.</info>
+<genre>ANIMAÇÃO</genre>
+</subitem>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+</subitems>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+COLAR AQUI UMA NOVA SÉRIE MANTER TAG DE FECHAMENTO
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+ COPIAR UMA NOVA  SÉRIES AQUI PARA BAIXO
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<subchannel>
+<name>[COLOR white][B]NomedaSérie (DATA)[/B][/COLOR]</name>
+<thumbnail><ICONEDASÉRIE></thumbnail>
+<fanart><FUNDODASÉRIE></fanart>
+<info>Assista aqui os episódios da série NomedaSérie
+[COLOR orange][B]NOMEDOGENERO[/B][/COLOR]
+[COLOR orange][B]ANOS - 0000 a 0000[/B][/COLOR]
+[COLOR orange][B]00 TEMPs  - 00 EPs[/B][/COLOR]
+</info>
+
+<subitems>
+<subitem>
+<title>[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]</title>
+<link>NOLINK</link>
+<thumbnail>https://i.ibb.co/MZ5t3vS/icon.png</thumbnail>
+<fanart>https://i.ibb.co/wYtwjTg/fanart.jpg</fanart>
+<info>FAÇA SUA ESCOLHA E DIVIRTA-SE</info>
+</subitem>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<subitem>
+<title>[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white]NomedaSérie[/B][/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=<LINKDOTRAILER></link>
+<thumbnail><ICONEDASÉRIE></thumbnail>
+<fanart><FUNDODASÉRIE></fanart>
+<info>Assista ao trailer</info>
+<genre>NOMEDOGENERO</genre> 
+</subitem>
+
+<subitem>
+<title>[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]NomedaSérie - (DATA)[/B][/COLOR]</title>
+
+<link>NOLINK$$lsname=[COLOR orange][B] Temporada 01 - DUB[/B][/COLOR]</link>	
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+<link>plugin://plugin.video.elementum/play?uri=<LINKMAGNETREDUZIDO>$$lsname=[COLOR orange][B]T01E01[COLOR yellow] -> [COLOR white]NomedoEpisodio[/B][/COLOR]</link>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<thumbnail><ICONEDASÉRIE></thumbnail>
+<fanart><FUNDODASÉRIE></fanart>
+<info><SINOPSEDASÉRIE></info>
+<genre>NOMEDOGENERO</genre>
+</subitem>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<subitem>
+<title>[COLOR orange][B]G DRIVE[COLOR yellow] -> [COLOR white]NomedaSérie - (DATA)[/B][/COLOR]</title>
+
+<link>NOLINK$$lsname=[COLOR orange][B] Temporada 01 - DUB[/B][/COLOR]</link>	
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=<LINKGDRIVE>$$lsname=[COLOR orange][B]G DRIVE[COLOR yellow] -> [COLOR white]NomedoFilme - DUB[/B][/COLOR]</link>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<thumbnail><ICONEDASÉRIE></thumbnail>
+<fanart><FUNDODASÉRIE></fanart>
+<info><SINOPSEDASÉRIE></info>
+<genre>NOMEDOGENERO</genre>
+</subitem>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<subitem>
+<title>[COLOR orange][B]SERVER 1[COLOR yellow] -> [COLOR white]NomedaSérie - (DATA)[/B][/COLOR]</title>
+
+<link>NOLINK$$lsname=[COLOR orange][B] Temporada 01 - DUB[/B][/COLOR]</link>	
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+<link><LINKUNIVVERSAL>$$lsname=[COLOR orange][B]T01E01[COLOR yellow] -> [COLOR white]NomedoEpisodio[/B][/COLOR]</link>	
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<thumbnail><ICONEDASÉRIE></thumbnail>
+<fanart><FUNDODASÉRIE></fanart>
+<info><SINOPSEDASÉRIE></info>
+<genre>NOMEDOGENERO</genre>
+</subitem>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<subitem>
+<title>[COLOR orange][B]SERVER 2[COLOR yellow] -> [COLOR white]NomedaSérie - (DATA)[/B][/COLOR]</title>
+
+<link>NOLINK$$lsname=[COLOR orange][B] Temporada 01 - DUB[/B][/COLOR]</link>	
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+<link><LINKUNIVVERSAL>$$lsname=[COLOR orange][B]T01E01[COLOR yellow] -> [COLOR white]NomedoEpisodio[/B][/COLOR]</link>	
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<thumbnail><ICONEDASÉRIE></thumbnail>
+<fanart><FUNDODASÉRIE></fanart>
+<info><SINOPSEDASÉRIE></info>
+<genre>NOMEDOGENERO</genre>
+</subitem>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+COLE AQUI NOVASERIE MANTER TAG DE FECHAMENTO
+</subitems>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
 <item>	
 <title>[COLOR white][B]Por Amor (1997) 191 EPs[/B][/COLOR]</title>	
 	
