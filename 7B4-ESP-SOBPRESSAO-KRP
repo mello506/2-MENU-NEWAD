@@ -44,7 +44,7 @@ link>plugin://plugin.video.elementum/play?uri=<LINKMAGNTREDUZIDO>$$lsname=[COLOR
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=<LINKGDRIVE>$$lsname=[COLOR orange][B]G DRIVE[COLOR yellow] -> [COLOR white]Sob Pressao - DUB[/B][/COLOR]</link>
 
 <link>http://sv1.nowiptv.net:8880/movie/ACML2/67293456jg/50915.mp4$$lsname=[COLOR orange][B]SERVER 1[COLOR yellow] -> [COLOR white]Sob Pressao - SD DUB[/B][/COLOR]</link>
-<link>http://b5.vc:80/movie/gislene/102030/24400.mp4$$lsname=[COLOR orange][B]SERVER 2[COLOR yellow] -> [COLOR white]Sob Pressao - HD DUB[/B][/COLOR]</link>
+<link>http://b5.vc:80/movie/aerton/123/24400.mp4$$lsname=[COLOR orange][B]SERVER 2[COLOR yellow] -> [COLOR white]Sob Pressao - HD DUB[/B][/COLOR]</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/bnPqMu7zTC6YsMMRmbdtjK6tGB9.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/A9U6vKYK8PhK71lCHrENPxaA2oE.jpg</fanart>
 <info>Dr. Evandro e sua equipe, formada também pelos doutores Paulo e Carolina enfrentam um tenso dia no hospital em que trabalham quando têm que realizar três cirurgias muito complicadas: um traficante, um policial militar e uma criança. O que complica o caso é que os três foram feridos no mesmo tiroteio em uma favela próxima ao hospital.</info>
@@ -115,7 +115,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <item>
-<title>[COLOR orange][B]SERVER 1[COLOR yellow] -> [COLOR white]Sob Pressão - A SÉRIE - 39 EPs[/B][/COLOR]</title>
+<title>[COLOR orange][B]SERVER 1[COLOR yellow] -> [COLOR white]Sob Pressão - A SÉRIE - 40 EPs[/B][/COLOR]</title>
 
 <link>NOLINK$$lsname=[COLOR orange][B]SERVER 1[COLOR yellow] -> [COLOR orange] Temporada 01 (2017) - SD DUB - 9 EPs[/B][/COLOR]</link>	
 <link>http://sv1.nowiptv.net:8880/series/ACML2/67293456jg/13218.mp4$$lsname=[COLOR orange][B]T01E01[COLOR yellow] -> [COLOR white]Sob Pressao - A Serie [/B][/COLOR]</link>
@@ -161,11 +161,29 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <link>http://sv1.nowiptv.net:8880/series/ACML2/67293456jg/80399.mp4$$lsname=[COLOR orange][B]PLANTAO COVID[COLOR yellow] ->[COLOR white] Episodio -> 01[/B][/COLOR]</link>
 <link>http://sv1.nowiptv.net:8880/series/ACML2/67293456jg/80400.mp4$$lsname=[COLOR orange][B]PLANTAO COVID[COLOR yellow] ->[COLOR white] Episodio -> 02[/B][/COLOR]</link>
 
-<link>NOLINK$$lsname=[COLOR orange][B]SERVER 1[COLOR yellow] -> [COLOR orange] Temporada 04 (2018) - HD DUB - 02 EPs[/B][/COLOR]</link>	
+<link>NOLINK$$lsname=[COLOR orange][B]SERVER 1[COLOR yellow] -> [COLOR orange] Temporada 04 (2018) - HD DUB - 03 EPs[/B][/COLOR]</link>	
 <link>plugin://plugin.video.youtube/play/?video_id=HR12RWAUkAo$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white]Sob Pressao - T04[/B][/COLOR]</link>
 <link>http://sv1.nowiptv.net:8880/series/ACML2/67293456jg/99389.mp4$$lsname=[COLOR orange][B]T04E01[COLOR yellow] -> [COLOR white]Sob Pressao - A Serie [/B][/COLOR]</link>
 <link>http://sv1.nowiptv.net:8880/series/ACML2/67293456jg/99649.mp4$$lsname=[COLOR orange][B]T04E02[COLOR yellow] -> [COLOR white]Sob Pressao - A Serie [/B][/COLOR]</link>
 <link>http://sv1.nowiptv.net:8880/series/ACML2/67293456jg/99650.mp4$$lsname=[COLOR orange][B]T04E03[COLOR yellow] -> [COLOR white]Sob Pressao - A Serie [/B][/COLOR]</link>
+
+<thumbnail>https://www.themoviedb.org/t/p/original/bnPqMu7zTC6YsMMRmbdtjK6tGB9.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/A9U6vKYK8PhK71lCHrENPxaA2oE.jpg</fanart>
+<info>Acompanhe a rotina de entrega, esforço e muita pressão pela qual os médicos de um hospital público passam todos os dias. Em comum, o desejo de salvar vidas.</info>
+<genre>CRIME E DRAMA</genre>
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[COLOR orange][B]SERVER 2[COLOR yellow] -> [COLOR white]Sob Pressão - T04 - 04 EPs[/B][/COLOR]</title>
+
+<link>NOLINK$$lsname=[COLOR orange][B]SERVER 2[COLOR yellow] -> [COLOR orange] Temporada 04 (2018) - HD DUB - 04 EPs[/B][/COLOR]</link>	
+<link>plugin://plugin.video.youtube/play/?video_id=HR12RWAUkAo$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white]Sob Pressao - T04[/B][/COLOR]</link>
+<link>http://b5.vc:80/series/aerton/123/121125.mp44$$lsname=[COLOR orange][B]T04E01[COLOR yellow] -> [COLOR white]Sob Pressao - A Serie [/B][/COLOR]</link>
+<link>http://b5.vc:80/series/aerton/123/121126.mp4$$lsname=[COLOR orange][B]T04E02[COLOR yellow] -> [COLOR white]Sob Pressao - A Serie [/B][/COLOR]</link>
+<link>http://b5.vc:80/series/aerton/123/124554.mp4$$lsname=[COLOR orange][B]T04E03[COLOR yellow] -> [COLOR white]Sob Pressao - A Serie [/B][/COLOR]</link>
+<link>http://b5.vc:80/series/aerton/123/125944.mp4$$lsname=[COLOR orange][B]T04E04[COLOR yellow] -> [COLOR white]Sob Pressao - A Serie [/B][/COLOR]</link>
 
 <thumbnail>https://www.themoviedb.org/t/p/original/bnPqMu7zTC6YsMMRmbdtjK6tGB9.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/A9U6vKYK8PhK71lCHrENPxaA2oE.jpg</fanart>
